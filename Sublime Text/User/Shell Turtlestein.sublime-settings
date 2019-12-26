@@ -1,0 +1,3 @@
+{
+    "surround_cmd": ["source ~/.bash_profile && ", ""]
+}

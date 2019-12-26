@@ -1,0 +1,12 @@
+{
+	"draw_centered": false,
+	"word_wrap": false,
+	"wrap_width": 80,
+	"rulers": [],
+
+	// Line
+	"line_numbers": true,
+	"highlight_line": true,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2
+}

@@ -1,0 +1,19 @@
+{
+	"default": {
+		"pandoc-path": "C:/Users/pperez.DESIC/AppData/Local/Pandoc/pandoc.exe",
+		"transformations": {
+			"PDF": {
+				"scope": {
+					"text.html": "html",
+					"text.html.markdown": "markdown"
+				},
+
+				"pandoc-arguments": [
+					"-t",
+					"pdf",
+					"--latex-engine=pdflatex"
+				]
+			}
+		}
+	}
+}

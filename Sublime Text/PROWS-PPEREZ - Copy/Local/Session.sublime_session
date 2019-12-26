@@ -1,0 +1,2438 @@
+{
+	"folder_history":
+	[
+		"/Q/",
+		"/P/Trunk/Meta",
+		"/Q/GeneradorInformes/Primaria/WSDataConverterEntradaTSI/lib/jaxb"
+	],
+	"last_version": 3126,
+	"last_window_id": 69,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 587.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"NUM",
+						"NUM_EXPEDIENTE_PACIENTE"
+					],
+					[
+						"servicio",
+						"servicioSaludProfesional"
+					],
+					[
+						"audi",
+						"auditoriaProfesional"
+					],
+					[
+						"audito",
+						"auditoriaProfesionalDAO"
+					],
+					[
+						"serv",
+						"servicioSaludProfesional"
+					],
+					[
+						"nu",
+						"numeroColegiadoProfesional"
+					],
+					[
+						"iden",
+						"identificadorProfesional"
+					],
+					[
+						"DESC_",
+						"DESC_LARGA_TIPO_ACCESO"
+					],
+					[
+						"DE",
+						"DESC_TIPO_ACCESO"
+					],
+					[
+						"DESC",
+						"DESC_LARGA_TIPO_ORIGENVP"
+					],
+					[
+						"ErrorGe",
+						"ErrorGeneralServicioInformesPdfAlmacenados"
+					],
+					[
+						"Despl",
+						"DesplazamientoPaginaFueraLimitesException"
+					],
+					[
+						"reso",
+						"resource-root"
+					],
+					[
+						"generate",
+						"generate-code"
+					],
+					[
+						"genera",
+						"generate-code"
+					],
+					[
+						"con",
+						"config-files-deployment-dir\tlocal"
+					],
+					[
+						"FECH",
+						"FECHA_CIERRE"
+					],
+					[
+						"SERVICIO_RERE",
+						"SERVICIO_REPRESENTACION_HL7_CDA_INFORMES"
+					],
+					[
+						"ServicioReprese",
+						"ServicioRepresentacionHl7CdaInformes"
+					],
+					[
+						"ServicioRefe",
+						"ServicioReferenciasInformes"
+					],
+					[
+						"ef",
+						"effectiveTime"
+					],
+					[
+						"numero-sc",
+						"numero-scripts-2\tlocal"
+					],
+					[
+						"gi",
+						"gi-modules-server-dir\tlocal"
+					],
+					[
+						"conf",
+						"config-files-server-dir\tlocal"
+					],
+					[
+						"numero-pl",
+						"numero-plantillas\tlocal"
+					],
+					[
+						"function-",
+						"function-signature"
+					],
+					[
+						"fun",
+						"function-class"
+					],
+					[
+						"build-",
+						"build-ServicioInformes"
+					],
+					[
+						"no",
+						"noPatientPages"
+					],
+					[
+						"profe",
+						"professionalIsRestricted"
+					],
+					[
+						"rs",
+						"resource-root"
+					],
+					[
+						"O",
+						"OBSERVACIONES"
+					],
+					[
+						"fechaBaja",
+						"fechaBajaProfesional"
+					],
+					[
+						"Solicit",
+						"SolicitudOperacion"
+					],
+					[
+						"solicitudes",
+						"solicitudesOperacion"
+					],
+					[
+						"FECHA_CA",
+						"FECHA_CAMBIO"
+					],
+					[
+						"FECHA_",
+						"FECHA_BAJA_PROFESIONAL"
+					],
+					[
+						"NUMER",
+						"NUMERO_COLEGIADO_PROFESIONAL"
+					],
+					[
+						"DNI",
+						"DNI_NIE_PROFESIONAL"
+					],
+					[
+						"SEGU",
+						"SEGUNDO_APELLIDO_PROFESIONAL"
+					],
+					[
+						"PRIMER_A",
+						"PRIMER_APELLIDO_PROFESIONAL"
+					],
+					[
+						"NOMBRE",
+						"NOMBRE_PROFESIONAL"
+					],
+					[
+						"CODIGO",
+						"CODIGO_ORGANISMO"
+					],
+					[
+						"ID_",
+						"ID_ORGANISMO_EXTERNO_2"
+					],
+					[
+						"PEX_FE",
+						"PEX_FECHA_ALTA"
+					],
+					[
+						"proces",
+						"healthcareProcess"
+					],
+					[
+						"format",
+						"formatDate"
+					],
+					[
+						"value",
+						"value-of"
+					],
+					[
+						"wi",
+						"with-param"
+					],
+					[
+						"firstR",
+						"firstResponsibleSignDate"
+					],
+					[
+						"fir",
+						"firstResponsibleSignDate"
+					],
+					[
+						"first",
+						"firstResponsibleRoot"
+					],
+					[
+						"ass",
+						"assignedPerson"
+					],
+					[
+						"depen",
+						"dependency"
+					],
+					[
+						"depedn",
+						"dependency"
+					],
+					[
+						"assem",
+						"assemblyGroup"
+					],
+					[
+						"createA",
+						"createAssemblies"
+					],
+					[
+						"createAssem",
+						"createAssemblyPro"
+					],
+					[
+						"create",
+						"createAssemblyPro"
+					],
+					[
+						"crea",
+						"createAssemblyPro"
+					],
+					[
+						"depe",
+						"dependsOn"
+					],
+					[
+						"createAss",
+						"createAssemblyAcc"
+					],
+					[
+						"createAs",
+						"createAssemblyAcc"
+					],
+					[
+						"compile",
+						"compileDebug"
+					],
+					[
+						"createAssemb",
+						"createAssemblyDev"
+					],
+					[
+						"build-WS",
+						"build-WSRepositorioApp"
+					],
+					[
+						"val",
+						"value-of"
+					],
+					[
+						"for",
+						"for-each"
+					],
+					[
+						"ORG_FE",
+						"ORG_FECHA_ALTA"
+					],
+					[
+						"ID",
+						"ID_ORGANISMO_EXTERNO"
+					],
+					[
+						"PEX_N",
+						"PEX_NUM_COLEG"
+					],
+					[
+						"PEX_A",
+						"PEX_APE1"
+					],
+					[
+						"WSDL",
+						"WSDL_PATH"
+					],
+					[
+						"ServicioCo",
+						"ServicioConsentimientosInformadosBinding"
+					],
+					[
+						"ObtenerConsentimientosCentro",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosCe",
+						"ObtenerConsentimientosCentroRequest"
+					],
+					[
+						"ObtenerPdfConse",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPdfConsentimientoAc",
+						"ObtenerPdfConsentimientoActivoRequest"
+					],
+					[
+						"ObtenerPdf",
+						"ObtenerPdfConsentimientoResponse"
+					],
+					[
+						"Inval",
+						"InvalidarConsentimientoInformadoResponse"
+					],
+					[
+						"Inva",
+						"InvalidarConsentimientoInformadoRequest"
+					],
+					[
+						"Guardar",
+						"GuardarConsentimientoInformadoResponse"
+					],
+					[
+						"ServicioC",
+						"ServicioConsentimientosInformadosPortType"
+					],
+					[
+						"ObtenerConsentimientosActivos",
+						"ObtenerConsentimientosActivosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosActivosCe",
+						"ObtenerConsentimientosActivosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosActivosC",
+						"ObtenerConsentimientosActivosCentroRequest"
+					],
+					[
+						"Obte",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerCon",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerConse",
+						"ObtenerConsentimientosCentroRequest"
+					],
+					[
+						"obtenerConse",
+						"obtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerP",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPdfCon",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPd",
+						"ObtenerPdfConsentimientoResponse"
+					],
+					[
+						"Ob",
+						"ObtenerConsentimientosPacienteResponse"
+					],
+					[
+						"ObtenerC",
+						"ObtenerConsentimientosPacienteResponse"
+					],
+					[
+						"obtener",
+						"obtenerConsentimientosPacienteResponse"
+					],
+					[
+						"Gua",
+						"GuardarConsentimientoInformadoResponse"
+					],
+					[
+						"GuardarCon",
+						"GuardarConsentimientoInformadoRequest"
+					],
+					[
+						"Res",
+						"RespuestaObtenerPdfConsentimientoType"
+					],
+					[
+						"Resp",
+						"RespuestaGuardarConsentimientoInformadoType"
+					],
+					[
+						"com",
+						"complexType"
+					],
+					[
+						"codi",
+						"codigoSeguroVerificacion"
+					],
+					[
+						"Guar",
+						"GuardarConsentimientoInformadoRequestType"
+					],
+					[
+						"ServicioFicheros",
+						"ServicioFicherosConfiguracionImpl"
+					],
+					[
+						"INF_",
+						"INF_HL7"
+					],
+					[
+						"APE",
+						"APE1_RESPONSABLE"
+					],
+					[
+						"PAC_",
+						"PAC_SNS"
+					],
+					[
+						"PA_C",
+						"PAC_CIP"
+					],
+					[
+						"COD_",
+						"COD_CENTRO"
+					],
+					[
+						"NOM",
+						"NOM_RESPONSABLE"
+					],
+					[
+						"TIPO",
+						"TIPO_INFORME"
+					],
+					[
+						"N",
+						"NUMERO_HISTORIA_CLINICA"
+					],
+					[
+						"TIP",
+						"TIPO_INFORME"
+					],
+					[
+						"NO",
+						"NOM_RESPONSABLE"
+					],
+					[
+						"AP",
+						"APE2_RESPONSABLE"
+					],
+					[
+						"P",
+						"PAC_ID"
+					],
+					[
+						"NU",
+						"NUMERO_HISTORIA_CLINICA"
+					],
+					[
+						"CIP",
+						"CIP_EUROPEO"
+					],
+					[
+						"COD",
+						"COD_SNS"
+					],
+					[
+						"CODCE",
+						"CODCENTROCORTO"
+					],
+					[
+						"CODSER",
+						"CODSERVICIOSOL"
+					],
+					[
+						"CODCEN",
+						"CODCENTROCORTO"
+					],
+					[
+						"AUTH",
+						"AUTHORAPE2"
+					],
+					[
+						"AUTHRO",
+						"AUTHORAPE1"
+					],
+					[
+						"DENSINCA",
+						"DENSINCATALOGAR"
+					],
+					[
+						"CODEX",
+						"CODEXPLORACION"
+					],
+					[
+						"TIPOE",
+						"TIPOEXPLORACION"
+					],
+					[
+						"FECHAE",
+						"FECHAEXPLORACION"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"last_filter": "syntax xml",
+				"selected_items":
+				[
+					[
+						"syntax xml",
+						"Set Syntax: XML"
+					],
+					[
+						"install t",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"syntax java",
+						"Set Syntax: Java"
+					],
+					[
+						"syntax htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"syntax x",
+						"Set Syntax: XML"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"syntax",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax:sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML"
+					],
+					[
+						"syntax sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax:javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntax:ap",
+						"Set Syntax: Apache Conf"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax:ja",
+						"Set Syntax: Java"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"ascii",
+						"Set Syntax: AsciiDoc (Asciidoctor)"
+					],
+					[
+						"COLOR",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"setsyntaxsq",
+						"Set Syntax: SQL"
+					],
+					[
+						"set syntax:sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"colorsib",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colos",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Users/pperez/Dropbox/.config/Sublime Text/Nuitari/.location",
+				"/E/Users/pperez/Dropbox/.config/ConEmu-trabajo/.location",
+				"/E/found.000/dir0000.chk/SchedulÆrService.java",
+				"/E/found.000/dir0000.chk/ControldorProcesoGeneracion.java",
+				"/J/eap/standalone/log/server.log",
+				"/J/eap/modules/com/hcec/portal/shared/main/module.xml",
+				"/E/Users/pperez/Desktop/obtenerAntecedentesPaciente.xml",
+				"/E/Users/pperez/Desktop/Antecedentes paciente ficticio.xml",
+				"/E/Users/pperez/Desktop/9914333.xml",
+				"/C/Users/pperez/AppData/Local/Temp/WER52A2.tmp.WERInternalMetadata.xml",
+				"/C/Users/pperez/AppData/Local/Temp/WER5966.tmp.appcompat.txt",
+				"/Q/Portales/load_all_versions.bat",
+				"/E/Users/pperez/Desktop/Regalo de Mónica.txt",
+				"/E/Users/pperez/Desktop/server.log",
+				"/E/Users/pperez/Desktop/Contraseña.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/(HCC) Solicitud de despliegue 2017.05.P2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/CHANGELOG.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.05.P2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170505-1/(HCC) 20170505-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Files/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Backup/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/PRO-1/help/hcdsns-no-ssl.html",
+				"/Q/Meta/Config/Apache/PRO-1/httpd-ssl.conf",
+				"/E/Users/pperez/Desktop/foo.java",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Version.txt",
+				"/E/Users/pperez/Desktop/Análisis de transacciones en GenericServiceImpl.md",
+				"//10.136.1.160/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/configuration/standalone-full.xml",
+				"/J/eap/standalone/configuration/standalone-full.xml",
+				"/C/Users/pperez/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log",
+				"//10.136.1.163/InOut/108581686_OUT.log",
+				"/E/Users/pperez/Desktop/New folder (2)/108466446_IN.log",
+				"//10.136.1.163/InOut/108466449_OUT.log",
+				"//10.136.1.163/InOut/108466446_OUT.log",
+				"/E/Users/pperez/Desktop/hcec_ws_publicacion.log.1",
+				"//10.136.1.163/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.10",
+				"//10.136.1.163/InOut/108259865_OUT.log",
+				"//10.136.1.163/InOut/108282119_OUT.log",
+				"//10.136.1.163/InOut/108282119_IN.log",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.6",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.8",
+				"/E/Users/pperez/Desktop/New folder/108259865_IN.log",
+				"/E/Users/pperez/Desktop/New folder/108259865_OUT.log",
+				"//10.136.1.160/InOut/2849301_IN.log",
+				"//10.136.1.160/InOut/2849301_OUT.log",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.9",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.10",
+				"/E/Users/pperez/Desktop/New folder/server.log.10",
+				"/E/Users/pperez/Desktop/New folder/server.log.11",
+				"/E/Users/pperez/Desktop/New folder/server.log.12",
+				"/E/Users/pperez/Desktop/New folder/server.log.13",
+				"/E/Users/pperez/Desktop/New folder/server.log.14",
+				"/E/Users/pperez/Desktop/LOG.csv",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_consulta.log",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.2",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.1",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log",
+				"/E/Users/pperez/Desktop/ICE de AP publicados en HCC desde el 20170504140000 hasta el 20170508101400.csv",
+				"/E/Users/pperez/Downloads/ICE de AP publicados en HCC desde el 201705041400 hasta el 201705050900.csv",
+				"/Q/Meta/Config/Apache/PRO-1/help/gpe-no-ssl.html",
+				"/Q/Meta/Config/Apache/PRE/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170505-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"/C/cygwin/home/pperez/(HCC) 20170505-1 Solicitud de despliegue en DES.adoc",
+				"/C/cygwin/home/pperez/tmp/(HCC) 20170505-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170505-1/(HCC) 20170505-1 Solicitud de despliegue en DES.adoc",
+				"//10.136.1.166/d$/Apache Software Foundation/Apache2.2/conf/extra/httpd-ssl.conf",
+				"//10.136.1.166/d$/Apache Software Foundation/Apache2.2/conf/extra/antiguos/20110825-httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/help/vcs-no-ssl.html",
+				"/Q/Meta/Config/Apache/DES/help/gpe-no-ssl.html",
+				"/J/Apache2.2/conf/extra/httpd-ssl.conf",
+				"//gcssccdatos.canariasalud/HCDSNS_CURSO/SoapUI/ServicioPdfLaboratorio/PRO-ServicioInformesLaboratorio-01r00.wsdl",
+				"/E/Users/pperez/Desktop/export.csv",
+				"/E/Users/pperez/Downloads/por_hospital_29.txt",
+				"/E/Users/pperez/Downloads/httpd-ssl.conf",
+				"/J/Apache2.2/htdocs/help/vcs-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/vpe-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/gpe-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/hcdsns-no-ssl.html",
+				"/Q/Meta/Scripts/Patches/(HCC) (61) Integración con Mantis.sql",
+				"/Q/Meta/Scripts/Patches/(HCC) (62) Integración con Mantis.sql",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Scripts/(HCC) (61) Integración con Mantis.sql",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Scripts/(HCC) (62) Integración con Mantis.sql",
+				"/Q/Meta/Scripts/Patches/(HCC) (52) Creación de vista de referencias.sql",
+				"/E/Users/pperez/Desktop/1.txt",
+				"/E/Users/pperez/Desktop/2.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/CHANGELOG.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.04.2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/(HCC) Solicitud de despliegue 2017.04.2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/CHANGELOG.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/Version.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.04.1.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/(HCC) Solicitud de despliegue 2017.04.1.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170425-1/(HCC) 20170425-1 Solicitud de despliegue en PRE.adoc",
+				"/E/Users/pperez/Desktop/HCEC-VP-Sugerencias-portlet.war/META-INF/maven/hcec/VP-Sugerencias/pom.properties",
+				"/E/Users/pperez/Desktop/HC3-VP-theme.war/META-INF/maven/hcec/HC3-VP-theme/pom.properties",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/modules/org/gobcan/hcec/configuration/main/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/modules.org.gobcan.hcec.configuration.main/config-mantis-profesional.properties",
+				"/Q/Meta/Config/HCDSNS/PRO-2/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170425-1/Files/modules.org.gobcan.hcec.configuration.main/config-mantis-profesional.properties",
+				"/Q/Meta/Config/HCDSNS/PRO-1/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/modules.com.hcec.portal.shared.main/module.xml",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Version.txt",
+				"/E/Users/pperez/Downloads/SDE.HCEC.ScriptGestionRepoProfesionales(1).sql",
+				"/E/Users/pperez/Documents/USERGROUP.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para obtener INF_CPI duplicados.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para eliminar duplicados.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes que NO tienen duplicado.csv",
+				"/E/Users/pperez/Desktop/Duplicados/Resultados de la consulta para obtener INF_CPI duplicados.csv",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes supuestamente duplicados.txt",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes duplicados.txt",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para obtener INF_CPI duplicados.txt",
+				"/E/Users/pperez/Downloads/(HCC) 20170207 Recuperación de ICE de AP en PRE.sql",
+				"/E/Users/pperez/Desktop/SSL.txt",
+				"/E/Users/pperez/Desktop/Liferay.js",
+				"/E/Users/pperez/Downloads/httpd-ssl(1).conf",
+				"/E/Users/pperez/Desktop/HUGCDN-Informes de Especializada a recuperar desde el 20170410.xml",
+				"/E/Users/pperez/Desktop/HUGCDN-Informes de Especializada a recuperar desde el 20170410.csv",
+				"/E/Users/pperez/Desktop/HNSG-Informes de Especializada a recuperar desde el 20170410.csv",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/Backup/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en DES.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/httpd.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/Backup/apache_home.conf.extra/httpd-ssl.conf"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"<antecedente>S",
+					"antecedente>S",
+					"<antecedente>S</antecedente>",
+					"<antecedente>S<\\/antecedente>",
+					"JBoss",
+					"JBOSS",
+					"#(.*?)#",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"10",
+					"SALVADO",
+					"insertIn11G",
+					"findPacientById",
+					"existsVersioByIcl",
+					"getCentroPorCodigo",
+					"findPacientById",
+					"getCentroPorCodigo",
+					"existsVersioByIcl",
+					"getTdcByCoc",
+					"getPacIdByDNI",
+					"getTdcByCoc",
+					"existInformacioClinica",
+					"exitsIclWithCpcAndPacId",
+					"tienePdf",
+					"isValidDocumentType",
+					"versionActiva",
+					"existsDocByIdDocAndPacIdAndCoc",
+					"getNextId",
+					"[\\s]*$",
+					"^\\/\\/.*?$",
+					"^\\t*$",
+					"existInformacioClinica",
+					"00000000000000020140139420",
+					"​​00000000000000020140139420",
+					"000587597114772122",
+					"000652063914791492",
+					"000668284214797726",
+					"00000000000000020140663500",
+					"00000000000000020140139420",
+					"00000000000000020139320760",
+					"000504589614803604",
+					"00000000000000020140139420",
+					"00000000000000020139320760",
+					"00000000000000020140139420",
+					"00000000000000020140663500",
+					"000587597114772122",
+					"000504589614803604",
+					"00000000000000020139320760",
+					"000504589614803604",
+					"jmx",
+					"12540014",
+					"BBBBBBBBDP419510\n",
+					"12540014",
+					"199356242",
+					"12540014",
+					"  ",
+					"sns-",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"16661489",
+					"TIPO_ORIGENVP",
+					"102148096",
+					"\\$affectedNodes",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"#(.*?)#",
+					"^(.*?);(.*?);(.*?)$",
+					",",
+					"^(.*?)$",
+					" ",
+					"16677993",
+					" ",
+					"^(.*?)$",
+					" ",
+					"^.*?-([0-9]*?);(.*?)$",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"deployec",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"\\$affectedNodes",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"\\$idMantis",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"Sugerencias",
+					" xsi:type=\\\"s:string\"",
+					"ocul",
+					"WSClienteInformesLaboratorio",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$fecha",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"form",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$fecha",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"\u001b\\[0m\\*",
+					"\u001b\\[0m*",
+					"\u001b\\[0m/",
+					"\u001b[0m/",
+					"Desarr",
+					"DESARROLLO"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\1",
+					"18/05/2017",
+					"2017.05.P2",
+					"18/05/2017",
+					"",
+					"1",
+					"05/05/2017",
+					"20170505",
+					"\\1",
+					"1",
+					"04/05/2017",
+					"2017.04.2",
+					"04/05/2017",
+					"\\1",
+					"-- Borrado de duplicados para `\\1` (identificador \\3).\\nDELETE FROM HCECTBVER WHERE (INF_CPI = \\2);\\nDELETE FROM HCECTBINF WHERE (INF_CPI = \\2);\\n\\n",
+					";",
+					"    '\\1',",
+					"-",
+					"-ICE-",
+					"    '\\1',",
+					"-",
+					"<informesPacienteResponse><nhc>\\2</nhc><idInformes>\\1</idInformes></informesPacienteResponse>",
+					"1",
+					"26/04/2017",
+					"20170426",
+					"\\1",
+					"1",
+					"25/04/2017",
+					"20170425",
+					"\\1",
+					"1",
+					"25/04/2017",
+					"2017.04.1",
+					"24/04/2017",
+					"18/04/2017",
+					"0290170",
+					"1",
+					"20170418",
+					"\\1",
+					"",
+					"07/04/2017",
+					"1",
+					"20170407",
+					"\\1",
+					"05/04/2017",
+					"2",
+					"20170405",
+					"\\1",
+					"",
+					"0230106",
+					"05/04/2017",
+					"1",
+					"20170405",
+					"\\1",
+					"1.6",
+					"\\1",
+					"1",
+					"0236843",
+					"29/03/2017",
+					"RC126_patch1",
+					"29/03/2017",
+					"0236843",
+					"27/03/2017",
+					"2",
+					"20170327",
+					"\\1",
+					"1",
+					"0236843",
+					"28/03/2017",
+					"RC126",
+					"27/03/2017",
+					"0236843",
+					"27/03/2017",
+					"1",
+					"20170327",
+					"\\1",
+					"1.5",
+					"COMMENT ON COLUMN HCDSNS_CA.HCECTBAUP.\\1 IS '';",
+					"\\1",
+					"HCECTBAMA",
+					"",
+					"informespdfalmacenados",
+					"",
+					"\\1",
+					"1.4",
+					"1.3",
+					"",
+					"WSDataConverterProblemasAP",
+					"",
+					"\\1",
+					"",
+					"\\1",
+					"1.2",
+					"\\1",
+					"BuscaEnPDF",
+					"FROM_TZ (TO_TIMESTAMP (INF.INF_DDO), 'ATLANTIC/CANARY') AS FECHA",
+					"FROM_TZ (TO_TIMESTAMP (RPAD (INF.INF_DDO, 14, '0'), 'yyyyMMddHH24MISS'), 'ATLANTIC/CANARY') AS FECHA",
+					"FROM_TZ (TO_TIMESTAMP (RPAD (INF.INF_DDO, 14, '0'), 'yyyyMMddHH24MISS'), 'ATLANTIC/CANARY') AS FECHA,",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"\\1",
+					"J:\\eap\\bin\\jbosssvc.exe",
+					";",
+					"V_FROM_DATE_CC",
+					"NUEVOS_DATOS",
+					"V_ERROR",
+					"V_CODE",
+					"V_ERROR_LOG",
+					"FECHA_INI",
+					"V_COUNT",
+					"",
+					"(INF_CPC = 'DragoAP-ICE-\\1') OR ",
+					"(INF_CPC = '\\1') OR ",
+					"(INF_CPC = '\\1')",
+					",",
+					"SELECT * FROM HCECTBINF WHERE (INF_CPC = 'DragoAP-ICE-\\1');",
+					"** <code>[\\1]</code>:",
+					"*",
+					"== \\1 ==",
+					"** '''\\1'''",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 265.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 172.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 817.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"NUM",
+						"NUM_EXPEDIENTE_PACIENTE"
+					],
+					[
+						"servicio",
+						"servicioSaludProfesional"
+					],
+					[
+						"audi",
+						"auditoriaProfesional"
+					],
+					[
+						"audito",
+						"auditoriaProfesionalDAO"
+					],
+					[
+						"serv",
+						"servicioSaludProfesional"
+					],
+					[
+						"nu",
+						"numeroColegiadoProfesional"
+					],
+					[
+						"iden",
+						"identificadorProfesional"
+					],
+					[
+						"DESC_",
+						"DESC_LARGA_TIPO_ACCESO"
+					],
+					[
+						"DE",
+						"DESC_TIPO_ACCESO"
+					],
+					[
+						"DESC",
+						"DESC_LARGA_TIPO_ORIGENVP"
+					],
+					[
+						"ErrorGe",
+						"ErrorGeneralServicioInformesPdfAlmacenados"
+					],
+					[
+						"Despl",
+						"DesplazamientoPaginaFueraLimitesException"
+					],
+					[
+						"reso",
+						"resource-root"
+					],
+					[
+						"generate",
+						"generate-code"
+					],
+					[
+						"genera",
+						"generate-code"
+					],
+					[
+						"con",
+						"config-files-deployment-dir\tlocal"
+					],
+					[
+						"FECH",
+						"FECHA_CIERRE"
+					],
+					[
+						"SERVICIO_RERE",
+						"SERVICIO_REPRESENTACION_HL7_CDA_INFORMES"
+					],
+					[
+						"ServicioReprese",
+						"ServicioRepresentacionHl7CdaInformes"
+					],
+					[
+						"ServicioRefe",
+						"ServicioReferenciasInformes"
+					],
+					[
+						"ef",
+						"effectiveTime"
+					],
+					[
+						"numero-sc",
+						"numero-scripts-2\tlocal"
+					],
+					[
+						"gi",
+						"gi-modules-server-dir\tlocal"
+					],
+					[
+						"conf",
+						"config-files-server-dir\tlocal"
+					],
+					[
+						"numero-pl",
+						"numero-plantillas\tlocal"
+					],
+					[
+						"function-",
+						"function-signature"
+					],
+					[
+						"fun",
+						"function-class"
+					],
+					[
+						"build-",
+						"build-ServicioInformes"
+					],
+					[
+						"no",
+						"noPatientPages"
+					],
+					[
+						"profe",
+						"professionalIsRestricted"
+					],
+					[
+						"rs",
+						"resource-root"
+					],
+					[
+						"O",
+						"OBSERVACIONES"
+					],
+					[
+						"fechaBaja",
+						"fechaBajaProfesional"
+					],
+					[
+						"Solicit",
+						"SolicitudOperacion"
+					],
+					[
+						"solicitudes",
+						"solicitudesOperacion"
+					],
+					[
+						"FECHA_CA",
+						"FECHA_CAMBIO"
+					],
+					[
+						"FECHA_",
+						"FECHA_BAJA_PROFESIONAL"
+					],
+					[
+						"NUMER",
+						"NUMERO_COLEGIADO_PROFESIONAL"
+					],
+					[
+						"DNI",
+						"DNI_NIE_PROFESIONAL"
+					],
+					[
+						"SEGU",
+						"SEGUNDO_APELLIDO_PROFESIONAL"
+					],
+					[
+						"PRIMER_A",
+						"PRIMER_APELLIDO_PROFESIONAL"
+					],
+					[
+						"NOMBRE",
+						"NOMBRE_PROFESIONAL"
+					],
+					[
+						"CODIGO",
+						"CODIGO_ORGANISMO"
+					],
+					[
+						"ID_",
+						"ID_ORGANISMO_EXTERNO_2"
+					],
+					[
+						"PEX_FE",
+						"PEX_FECHA_ALTA"
+					],
+					[
+						"proces",
+						"healthcareProcess"
+					],
+					[
+						"format",
+						"formatDate"
+					],
+					[
+						"value",
+						"value-of"
+					],
+					[
+						"wi",
+						"with-param"
+					],
+					[
+						"firstR",
+						"firstResponsibleSignDate"
+					],
+					[
+						"fir",
+						"firstResponsibleSignDate"
+					],
+					[
+						"first",
+						"firstResponsibleRoot"
+					],
+					[
+						"ass",
+						"assignedPerson"
+					],
+					[
+						"depen",
+						"dependency"
+					],
+					[
+						"depedn",
+						"dependency"
+					],
+					[
+						"assem",
+						"assemblyGroup"
+					],
+					[
+						"createA",
+						"createAssemblies"
+					],
+					[
+						"createAssem",
+						"createAssemblyPro"
+					],
+					[
+						"create",
+						"createAssemblyPro"
+					],
+					[
+						"crea",
+						"createAssemblyPro"
+					],
+					[
+						"depe",
+						"dependsOn"
+					],
+					[
+						"createAss",
+						"createAssemblyAcc"
+					],
+					[
+						"createAs",
+						"createAssemblyAcc"
+					],
+					[
+						"compile",
+						"compileDebug"
+					],
+					[
+						"createAssemb",
+						"createAssemblyDev"
+					],
+					[
+						"build-WS",
+						"build-WSRepositorioApp"
+					],
+					[
+						"val",
+						"value-of"
+					],
+					[
+						"for",
+						"for-each"
+					],
+					[
+						"ORG_FE",
+						"ORG_FECHA_ALTA"
+					],
+					[
+						"ID",
+						"ID_ORGANISMO_EXTERNO"
+					],
+					[
+						"PEX_N",
+						"PEX_NUM_COLEG"
+					],
+					[
+						"PEX_A",
+						"PEX_APE1"
+					],
+					[
+						"WSDL",
+						"WSDL_PATH"
+					],
+					[
+						"ServicioCo",
+						"ServicioConsentimientosInformadosBinding"
+					],
+					[
+						"ObtenerConsentimientosCentro",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosCe",
+						"ObtenerConsentimientosCentroRequest"
+					],
+					[
+						"ObtenerPdfConse",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPdfConsentimientoAc",
+						"ObtenerPdfConsentimientoActivoRequest"
+					],
+					[
+						"ObtenerPdf",
+						"ObtenerPdfConsentimientoResponse"
+					],
+					[
+						"Inval",
+						"InvalidarConsentimientoInformadoResponse"
+					],
+					[
+						"Inva",
+						"InvalidarConsentimientoInformadoRequest"
+					],
+					[
+						"Guardar",
+						"GuardarConsentimientoInformadoResponse"
+					],
+					[
+						"ServicioC",
+						"ServicioConsentimientosInformadosPortType"
+					],
+					[
+						"ObtenerConsentimientosActivos",
+						"ObtenerConsentimientosActivosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosActivosCe",
+						"ObtenerConsentimientosActivosCentroResponse"
+					],
+					[
+						"ObtenerConsentimientosActivosC",
+						"ObtenerConsentimientosActivosCentroRequest"
+					],
+					[
+						"Obte",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerCon",
+						"ObtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerConse",
+						"ObtenerConsentimientosCentroRequest"
+					],
+					[
+						"obtenerConse",
+						"obtenerConsentimientosCentroResponse"
+					],
+					[
+						"ObtenerP",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPdfCon",
+						"ObtenerPdfConsentimientoActivoResponse"
+					],
+					[
+						"ObtenerPd",
+						"ObtenerPdfConsentimientoResponse"
+					],
+					[
+						"Ob",
+						"ObtenerConsentimientosPacienteResponse"
+					],
+					[
+						"ObtenerC",
+						"ObtenerConsentimientosPacienteResponse"
+					],
+					[
+						"obtener",
+						"obtenerConsentimientosPacienteResponse"
+					],
+					[
+						"Gua",
+						"GuardarConsentimientoInformadoResponse"
+					],
+					[
+						"GuardarCon",
+						"GuardarConsentimientoInformadoRequest"
+					],
+					[
+						"Res",
+						"RespuestaObtenerPdfConsentimientoType"
+					],
+					[
+						"Resp",
+						"RespuestaGuardarConsentimientoInformadoType"
+					],
+					[
+						"com",
+						"complexType"
+					],
+					[
+						"codi",
+						"codigoSeguroVerificacion"
+					],
+					[
+						"Guar",
+						"GuardarConsentimientoInformadoRequestType"
+					],
+					[
+						"ServicioFicheros",
+						"ServicioFicherosConfiguracionImpl"
+					],
+					[
+						"INF_",
+						"INF_HL7"
+					],
+					[
+						"APE",
+						"APE1_RESPONSABLE"
+					],
+					[
+						"PAC_",
+						"PAC_SNS"
+					],
+					[
+						"PA_C",
+						"PAC_CIP"
+					],
+					[
+						"COD_",
+						"COD_CENTRO"
+					],
+					[
+						"NOM",
+						"NOM_RESPONSABLE"
+					],
+					[
+						"TIPO",
+						"TIPO_INFORME"
+					],
+					[
+						"N",
+						"NUMERO_HISTORIA_CLINICA"
+					],
+					[
+						"TIP",
+						"TIPO_INFORME"
+					],
+					[
+						"NO",
+						"NOM_RESPONSABLE"
+					],
+					[
+						"AP",
+						"APE2_RESPONSABLE"
+					],
+					[
+						"P",
+						"PAC_ID"
+					],
+					[
+						"NU",
+						"NUMERO_HISTORIA_CLINICA"
+					],
+					[
+						"CIP",
+						"CIP_EUROPEO"
+					],
+					[
+						"COD",
+						"COD_SNS"
+					],
+					[
+						"CODCE",
+						"CODCENTROCORTO"
+					],
+					[
+						"CODSER",
+						"CODSERVICIOSOL"
+					],
+					[
+						"CODCEN",
+						"CODCENTROCORTO"
+					],
+					[
+						"AUTH",
+						"AUTHORAPE2"
+					],
+					[
+						"AUTHRO",
+						"AUTHORAPE1"
+					],
+					[
+						"DENSINCA",
+						"DENSINCATALOGAR"
+					],
+					[
+						"CODEX",
+						"CODEXPLORACION"
+					],
+					[
+						"TIPOE",
+						"TIPOEXPLORACION"
+					],
+					[
+						"FECHAE",
+						"FECHAEXPLORACION"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Users/pperez/Desktop/foo.java",
+					"settings":
+					{
+						"buffer_size": 48863,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"last_filter": "syntax xml",
+				"selected_items":
+				[
+					[
+						"syntax xml",
+						"Set Syntax: XML"
+					],
+					[
+						"install t",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"syntax java",
+						"Set Syntax: Java"
+					],
+					[
+						"syntax htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"syntax x",
+						"Set Syntax: XML"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"syntax",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax:sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML"
+					],
+					[
+						"syntax sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax:javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntax:ap",
+						"Set Syntax: Apache Conf"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax:ja",
+						"Set Syntax: Java"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"ascii",
+						"Set Syntax: AsciiDoc (Asciidoctor)"
+					],
+					[
+						"COLOR",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"setsyntaxsq",
+						"Set Syntax: SQL"
+					],
+					[
+						"set syntax:sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"colorsib",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colos",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Users/pperez/Desktop/foo.java",
+				"/E/Users/pperez/Dropbox/.config/Sublime Text/Nuitari/.location",
+				"/E/Users/pperez/Dropbox/.config/ConEmu-trabajo/.location",
+				"/E/found.000/dir0000.chk/SchedulÆrService.java",
+				"/E/found.000/dir0000.chk/ControldorProcesoGeneracion.java",
+				"/J/eap/standalone/log/server.log",
+				"/J/eap/modules/com/hcec/portal/shared/main/module.xml",
+				"/E/Users/pperez/Desktop/obtenerAntecedentesPaciente.xml",
+				"/E/Users/pperez/Desktop/Antecedentes paciente ficticio.xml",
+				"/E/Users/pperez/Desktop/9914333.xml",
+				"/C/Users/pperez/AppData/Local/Temp/WER52A2.tmp.WERInternalMetadata.xml",
+				"/C/Users/pperez/AppData/Local/Temp/WER5966.tmp.appcompat.txt",
+				"/Q/Portales/load_all_versions.bat",
+				"/E/Users/pperez/Desktop/Regalo de Mónica.txt",
+				"/E/Users/pperez/Desktop/server.log",
+				"/E/Users/pperez/Desktop/Contraseña.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/(HCC) Solicitud de despliegue 2017.05.P2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/CHANGELOG.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.05.P2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170505-1/(HCC) 20170505-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Files/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Backup/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/PRO-1/help/hcdsns-no-ssl.html",
+				"/Q/Meta/Config/Apache/PRO-1/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.05.P2/Version.txt",
+				"/E/Users/pperez/Desktop/Análisis de transacciones en GenericServiceImpl.md",
+				"//10.136.1.160/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/configuration/standalone-full.xml",
+				"/J/eap/standalone/configuration/standalone-full.xml",
+				"/C/Users/pperez/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log",
+				"//10.136.1.163/InOut/108581686_OUT.log",
+				"/E/Users/pperez/Desktop/New folder (2)/108466446_IN.log",
+				"//10.136.1.163/InOut/108466449_OUT.log",
+				"//10.136.1.163/InOut/108466446_OUT.log",
+				"/E/Users/pperez/Desktop/hcec_ws_publicacion.log.1",
+				"//10.136.1.163/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.10",
+				"//10.136.1.163/InOut/108259865_OUT.log",
+				"//10.136.1.163/InOut/108282119_OUT.log",
+				"//10.136.1.163/InOut/108282119_IN.log",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.6",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.8",
+				"/E/Users/pperez/Desktop/New folder/108259865_IN.log",
+				"/E/Users/pperez/Desktop/New folder/108259865_OUT.log",
+				"//10.136.1.160/InOut/2849301_IN.log",
+				"//10.136.1.160/InOut/2849301_OUT.log",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.9",
+				"/E/Users/pperez/Desktop/New folder/hcec_ws_publicacion.log.10",
+				"/E/Users/pperez/Desktop/New folder/server.log.10",
+				"/E/Users/pperez/Desktop/New folder/server.log.11",
+				"/E/Users/pperez/Desktop/New folder/server.log.12",
+				"/E/Users/pperez/Desktop/New folder/server.log.13",
+				"/E/Users/pperez/Desktop/New folder/server.log.14",
+				"/E/Users/pperez/Desktop/LOG.csv",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_consulta.log",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.2",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log.1",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/standalone/log/REPO/hcec_ws_publicacion.log",
+				"/E/Users/pperez/Desktop/ICE de AP publicados en HCC desde el 20170504140000 hasta el 20170508101400.csv",
+				"/E/Users/pperez/Downloads/ICE de AP publicados en HCC desde el 201705041400 hasta el 201705050900.csv",
+				"/Q/Meta/Config/Apache/PRO-1/help/gpe-no-ssl.html",
+				"/Q/Meta/Config/Apache/PRE/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170505-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"/C/cygwin/home/pperez/(HCC) 20170505-1 Solicitud de despliegue en DES.adoc",
+				"/C/cygwin/home/pperez/tmp/(HCC) 20170505-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170505-1/(HCC) 20170505-1 Solicitud de despliegue en DES.adoc",
+				"//10.136.1.166/d$/Apache Software Foundation/Apache2.2/conf/extra/httpd-ssl.conf",
+				"//10.136.1.166/d$/Apache Software Foundation/Apache2.2/conf/extra/antiguos/20110825-httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/help/vcs-no-ssl.html",
+				"/Q/Meta/Config/Apache/DES/help/gpe-no-ssl.html",
+				"/J/Apache2.2/conf/extra/httpd-ssl.conf",
+				"//gcssccdatos.canariasalud/HCDSNS_CURSO/SoapUI/ServicioPdfLaboratorio/PRO-ServicioInformesLaboratorio-01r00.wsdl",
+				"/E/Users/pperez/Desktop/export.csv",
+				"/E/Users/pperez/Downloads/por_hospital_29.txt",
+				"/E/Users/pperez/Downloads/httpd-ssl.conf",
+				"/J/Apache2.2/htdocs/help/vcs-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/vpe-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/gpe-no-ssl.html",
+				"/J/Apache2.2/htdocs/help/hcdsns-no-ssl.html",
+				"/Q/Meta/Scripts/Patches/(HCC) (61) Integración con Mantis.sql",
+				"/Q/Meta/Scripts/Patches/(HCC) (62) Integración con Mantis.sql",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Scripts/(HCC) (61) Integración con Mantis.sql",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Scripts/(HCC) (62) Integración con Mantis.sql",
+				"/Q/Meta/Scripts/Patches/(HCC) (52) Creación de vista de referencias.sql",
+				"/E/Users/pperez/Desktop/1.txt",
+				"/E/Users/pperez/Desktop/2.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/CHANGELOG.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.04.2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/(HCC) Solicitud de despliegue 2017.04.2.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/CHANGELOG.txt",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/Version.txt",
+				"/C/cygwin/home/pperez/tmp/(HCC) Solicitud de despliegue 2017.04.1.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.1/(HCC) Solicitud de despliegue 2017.04.1.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170425-1/(HCC) 20170425-1 Solicitud de despliegue en PRE.adoc",
+				"/E/Users/pperez/Desktop/HCEC-VP-Sugerencias-portlet.war/META-INF/maven/hcec/VP-Sugerencias/pom.properties",
+				"/E/Users/pperez/Desktop/HC3-VP-theme.war/META-INF/maven/hcec/HC3-VP-theme/pom.properties",
+				"//10.136.1.162/jboss/EAP-6.0.1/jboss-eap-6.0.1/modules/org/gobcan/hcec/configuration/main/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/modules.org.gobcan.hcec.configuration.main/config-mantis-profesional.properties",
+				"/Q/Meta/Config/HCDSNS/PRO-2/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/Anteriores/20170425-1/Files/modules.org.gobcan.hcec.configuration.main/config-mantis-profesional.properties",
+				"/Q/Meta/Config/HCDSNS/PRO-1/config-mantis-profesional.properties",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Files/PRO-1/modules.com.hcec.portal.shared.main/module.xml",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRO/2017.04.2/Version.txt",
+				"/E/Users/pperez/Downloads/SDE.HCEC.ScriptGestionRepoProfesionales(1).sql",
+				"/E/Users/pperez/Documents/USERGROUP.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para obtener INF_CPI duplicados.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para eliminar duplicados.sql",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes que NO tienen duplicado.csv",
+				"/E/Users/pperez/Desktop/Duplicados/Resultados de la consulta para obtener INF_CPI duplicados.csv",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes supuestamente duplicados.txt",
+				"/E/Users/pperez/Desktop/Duplicados/Lista de informes duplicados.txt",
+				"/E/Users/pperez/Desktop/Duplicados/Consulta para obtener INF_CPI duplicados.txt",
+				"/E/Users/pperez/Downloads/(HCC) 20170207 Recuperación de ICE de AP en PRE.sql",
+				"/E/Users/pperez/Desktop/SSL.txt",
+				"/E/Users/pperez/Desktop/Liferay.js",
+				"/E/Users/pperez/Downloads/httpd-ssl(1).conf",
+				"/E/Users/pperez/Desktop/HUGCDN-Informes de Especializada a recuperar desde el 20170410.xml",
+				"/E/Users/pperez/Desktop/HUGCDN-Informes de Especializada a recuperar desde el 20170410.csv",
+				"/E/Users/pperez/Desktop/HNSG-Informes de Especializada a recuperar desde el 20170410.csv",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/Backup/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en PRE.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/PRE/20170426-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/(HCC) 20170426-1 Solicitud de despliegue en DES.adoc",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/Files/apache_home.conf.extra/httpd-ssl.conf",
+				"/Q/Meta/Config/Apache/DES/httpd.conf",
+				"//datossscc.scs-salud.org/informatica/Desarrollo/Despliegues/HCDSNS/DES/20170426-1/Backup/apache_home.conf.extra/httpd-ssl.conf"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"<antecedente>S",
+					"antecedente>S",
+					"<antecedente>S</antecedente>",
+					"<antecedente>S<\\/antecedente>",
+					"JBoss",
+					"JBOSS",
+					"#(.*?)#",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"10",
+					"SALVADO",
+					"insertIn11G",
+					"findPacientById",
+					"existsVersioByIcl",
+					"getCentroPorCodigo",
+					"findPacientById",
+					"getCentroPorCodigo",
+					"existsVersioByIcl",
+					"getTdcByCoc",
+					"getPacIdByDNI",
+					"getTdcByCoc",
+					"existInformacioClinica",
+					"exitsIclWithCpcAndPacId",
+					"tienePdf",
+					"isValidDocumentType",
+					"versionActiva",
+					"existsDocByIdDocAndPacIdAndCoc",
+					"getNextId",
+					"[\\s]*$",
+					"^\\/\\/.*?$",
+					"^\\t*$",
+					"existInformacioClinica",
+					"00000000000000020140139420",
+					"​​00000000000000020140139420",
+					"000587597114772122",
+					"000652063914791492",
+					"000668284214797726",
+					"00000000000000020140663500",
+					"00000000000000020140139420",
+					"00000000000000020139320760",
+					"000504589614803604",
+					"00000000000000020140139420",
+					"00000000000000020139320760",
+					"00000000000000020140139420",
+					"00000000000000020140663500",
+					"000587597114772122",
+					"000504589614803604",
+					"00000000000000020139320760",
+					"000504589614803604",
+					"jmx",
+					"12540014",
+					"BBBBBBBBDP419510\n",
+					"12540014",
+					"199356242",
+					"12540014",
+					"  ",
+					"sns-",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"16661489",
+					"TIPO_ORIGENVP",
+					"102148096",
+					"\\$affectedNodes",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"#(.*?)#",
+					"^(.*?);(.*?);(.*?)$",
+					",",
+					"^(.*?)$",
+					" ",
+					"16677993",
+					" ",
+					"^(.*?)$",
+					" ",
+					"^.*?-([0-9]*?);(.*?)$",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"deployec",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$numeroDespliegue",
+					"\\$fecha",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"\\$affectedNodes",
+					"\\$deploymentDate",
+					"\\$deploymentVersion",
+					"\\$fecha",
+					"\\$idMantis",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"Sugerencias",
+					" xsi:type=\\\"s:string\"",
+					"ocul",
+					"WSClienteInformesLaboratorio",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$fecha",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"form",
+					"Desarr",
+					"DESARROLLO",
+					"ENTREGABLES_DES",
+					"\\$fecha",
+					"\\$numeroDespliegue",
+					"\\$fechaInversa",
+					"#(.*?)#",
+					"\u001b\\[0m\\*",
+					"\u001b\\[0m*",
+					"\u001b\\[0m/",
+					"\u001b[0m/",
+					"Desarr",
+					"DESARROLLO"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\1",
+					"18/05/2017",
+					"2017.05.P2",
+					"18/05/2017",
+					"",
+					"1",
+					"05/05/2017",
+					"20170505",
+					"\\1",
+					"1",
+					"04/05/2017",
+					"2017.04.2",
+					"04/05/2017",
+					"\\1",
+					"-- Borrado de duplicados para `\\1` (identificador \\3).\\nDELETE FROM HCECTBVER WHERE (INF_CPI = \\2);\\nDELETE FROM HCECTBINF WHERE (INF_CPI = \\2);\\n\\n",
+					";",
+					"    '\\1',",
+					"-",
+					"-ICE-",
+					"    '\\1',",
+					"-",
+					"<informesPacienteResponse><nhc>\\2</nhc><idInformes>\\1</idInformes></informesPacienteResponse>",
+					"1",
+					"26/04/2017",
+					"20170426",
+					"\\1",
+					"1",
+					"25/04/2017",
+					"20170425",
+					"\\1",
+					"1",
+					"25/04/2017",
+					"2017.04.1",
+					"24/04/2017",
+					"18/04/2017",
+					"0290170",
+					"1",
+					"20170418",
+					"\\1",
+					"",
+					"07/04/2017",
+					"1",
+					"20170407",
+					"\\1",
+					"05/04/2017",
+					"2",
+					"20170405",
+					"\\1",
+					"",
+					"0230106",
+					"05/04/2017",
+					"1",
+					"20170405",
+					"\\1",
+					"1.6",
+					"\\1",
+					"1",
+					"0236843",
+					"29/03/2017",
+					"RC126_patch1",
+					"29/03/2017",
+					"0236843",
+					"27/03/2017",
+					"2",
+					"20170327",
+					"\\1",
+					"1",
+					"0236843",
+					"28/03/2017",
+					"RC126",
+					"27/03/2017",
+					"0236843",
+					"27/03/2017",
+					"1",
+					"20170327",
+					"\\1",
+					"1.5",
+					"COMMENT ON COLUMN HCDSNS_CA.HCECTBAUP.\\1 IS '';",
+					"\\1",
+					"HCECTBAMA",
+					"",
+					"informespdfalmacenados",
+					"",
+					"\\1",
+					"1.4",
+					"1.3",
+					"",
+					"WSDataConverterProblemasAP",
+					"",
+					"\\1",
+					"",
+					"\\1",
+					"1.2",
+					"\\1",
+					"BuscaEnPDF",
+					"FROM_TZ (TO_TIMESTAMP (INF.INF_DDO), 'ATLANTIC/CANARY') AS FECHA",
+					"FROM_TZ (TO_TIMESTAMP (RPAD (INF.INF_DDO, 14, '0'), 'yyyyMMddHH24MISS'), 'ATLANTIC/CANARY') AS FECHA",
+					"FROM_TZ (TO_TIMESTAMP (RPAD (INF.INF_DDO, 14, '0'), 'yyyyMMddHH24MISS'), 'ATLANTIC/CANARY') AS FECHA,",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBVER WHERE (INF_CPI = \\1);",
+					"DELETE FROM HCECTBINF WHERE (INF_CPI = \\1);",
+					"\\1",
+					"J:\\eap\\bin\\jbosssvc.exe",
+					";",
+					"V_FROM_DATE_CC",
+					"NUEVOS_DATOS",
+					"V_ERROR",
+					"V_CODE",
+					"V_ERROR_LOG",
+					"FECHA_INI",
+					"V_COUNT",
+					"",
+					"(INF_CPC = 'DragoAP-ICE-\\1') OR ",
+					"(INF_CPC = '\\1') OR ",
+					"(INF_CPC = '\\1')",
+					",",
+					"SELECT * FROM HCECTBINF WHERE (INF_CPC = 'DragoAP-ICE-\\1');",
+					"** <code>[\\1]</code>:",
+					"*",
+					"== \\1 ==",
+					"** '''\\1'''",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Users/pperez/Desktop/foo.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 48863,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/Java/Java.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 11227.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 265.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,751,183,106,1016",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 172.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 68,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

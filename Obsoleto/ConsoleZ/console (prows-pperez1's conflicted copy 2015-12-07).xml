@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<settings>
+	<console change_refresh="10" refresh="100" rows="40" columns="200" buffer_rows="500" buffer_columns="0" shell="C:\cygwin64\Cygwin.bat" init_dir="C:\" start_hidden="1" save_size="0" background_text_opacity="255">
+		<colors background_text_opacity="255">
+			<color id="0" r="238" g="232" b="213"/>
+			<color id="1" r="38" g="139" b="210"/>
+			<color id="2" r="133" g="153" b="0"/>
+			<color id="3" r="42" g="161" b="152"/>
+			<color id="4" r="220" g="50" b="47"/>
+			<color id="5" r="211" g="54" b="130"/>
+			<color id="6" r="181" g="137" b="0"/>
+			<color id="7" r="7" g="54" b="66"/>
+			<color id="8" r="0" g="43" b="54"/>
+			<color id="9" r="38" g="139" b="210"/>
+			<color id="10" r="133" g="153" b="0"/>
+			<color id="11" r="88" g="110" b="117"/>
+			<color id="12" r="203" g="75" b="22"/>
+			<color id="13" r="108" g="113" b="196"/>
+			<color id="14" r="131" g="148" b="150"/>
+			<color id="15" r="0" g="43" b="54"/>
+		</colors>
+		<cursor style="0" r="255" g="255" b="255"/>
+		<background type="0" r="0" g="0" b="0">
+			<image file="" relative="0" extend="0" position="0">
+				<tint opacity="0" r="0" g="0" b="0"/>
+			</image>
+		</background>
+	</console>
+	<appearance>
+		<font name="Consolas" size="10" bold="0" italic="0" smoothing="0" bold_intensified="0" italic_intensified="0" extra_width="0" ligature="0">
+			<color use="0" r="0" g="0" b="0"/>
+		</font>
+		<window title="ConsoleZ" icon="" use_tab_icon="1" use_console_title="0" show_cmd="1" show_cmd_tabs="1" use_tab_title="1" trim_tab_titles="20" trim_tab_titles_right="0" main_title_format="?U([%u] )?N({%u} )%m?s( - %s)" tab_title_format="[%n] %t"/>
+		<controls show_menu="0" show_toolbar="0" show_statusbar="0" show_tabs="1" hide_single_tab="0" show_scrollbars="1" flat_scrollbars="1" tabs_on_bottom="1" hide_tab_icons="0" show_searchbar="0"/>
+		<styles caption="0" resizable="0" taskbar_button="0" border="0" inside_border="0" tray_icon="0" quake_like="1" jumplist="0" integrated_ime="0" quake_animation_time="300" hide_when_inactive="0">
+			<selection_color r="255" g="255" b="255"/>
+		</styles>
+		<position x="0" y="0" dock="0" snap="0" z_order="0" save_position="0" w="1282" h="621" save_size="1"/>
+		<transparency type="0" active_alpha="225" inactive_alpha="225" r="0" g="0" b="0"/>
+		<fullscreen start_in_fullscreen="0" fullscreen_monitor="0"/>
+	</appearance>
+	<behavior>
+		<copy_paste copy_on_select="0" clear_on_copy="1" no_wrap="1" trim_spaces="1" copy_newline_char="0" sensitive_copy="1" include_left_delimiter="0" include_right_delimiter="0" left_delimiters=" ([" right_delimiters=" )]" eol_spaces="1" rtf="1"/>
+		<scroll page_scroll_rows="0"/>
+		<tab_highlight flashes="3" stay_highligted="1"/>
+		<close allow_closing_last_view="0" confirm_closing_multiple_views="1"/>
+		<focus follow_mouse="0"/>
+		<instance allow_multi="1"/>
+		<clone use_current_dir="1"/>
+		<search match_case="1" match_whole_word="0"/>
+		<runas use_credprov="1"/>
+	</behavior>
+	<hotkeys use_scroll_lock="1">
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="83" command="settings"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="112" command="help"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="115" command="exit"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="112" command="newtab1"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="113" command="newtab2"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="114" command="newtab3"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="115" command="newtab4"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="116" command="newtab5"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="117" command="newtab6"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="118" command="newtab7"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="119" command="newtab8"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="120" command="newtab9"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="121" command="newtab10"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="122" command="newtab11"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="123" command="newtab12"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="49" command="switchtab1"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="50" command="switchtab2"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="51" command="switchtab3"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="52" command="switchtab4"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="53" command="switchtab5"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="54" command="switchtab6"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="55" command="switchtab7"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="56" command="switchtab8"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="57" command="switchtab9"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="48" command="switchtab10"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="switchtab11"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="switchtab12"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="9" command="nexttab"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="9" command="prevtab"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="87" command="closetab"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="82" command="renametab"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="1" code="34" command="nextview"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="1" code="33" command="prevview"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="1" code="37" command="leftview"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="1" code="39" command="rightview"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="1" code="38" command="topview"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="1" code="40" command="bottomview"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="dechsize"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="inchsize"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="decvsize"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="incvsize"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="87" command="closeview"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="detachview"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="attach"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="79" command="splithoriz"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="69" command="splitvert"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="clone"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="122" command="fullscreen"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="96" command="zoom100"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="107" command="zoominc"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="109" command="zoomdec"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="71" command="groupall"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="71" command="ungroupall"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="84" command="grouptab"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="84" command="ungrouptab"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="clear"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="1" code="45" command="copy"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="65" command="selectall"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="1" code="46" command="clear_selection"/>
+		<hotkey ctrl="0" shift="1" alt="0" extended="1" code="45" command="paste"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="paste_selection"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="stopscroll"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollrowup"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollrowdown"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpageup"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpagedown"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollcolleft"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollcolright"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpageleft"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="scrollpageright"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="find"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="findnext"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="findprev"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="switchtransparency"/>
+		<hotkey ctrl="1" shift="1" alt="0" extended="0" code="112" command="dumpbuffer"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="cmdMenu1"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="cmdMenu2"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="cmdMenu3"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="ctrlC"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd1"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd2"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd3"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd4"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd5"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd6"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd7"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd8"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd9"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="externalcmd10"/>
+		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="activate" win="0"/>
+	</hotkeys>
+	<mouse>
+		<actions>
+			<action ctrl="0" shift="0" alt="0" button="1" name="copy"/>
+			<action ctrl="0" shift="1" alt="0" button="1" name="select"/>
+			<action ctrl="0" shift="0" alt="0" button="0" name="select_column"/>
+			<action ctrl="0" shift="0" alt="0" button="3" name="paste"/>
+			<action ctrl="1" shift="0" alt="0" button="1" name="drag"/>
+			<action ctrl="0" shift="0" alt="0" button="4" name="link"/>
+			<action ctrl="0" shift="0" alt="0" button="2" name="menu"/>
+			<action ctrl="0" shift="0" alt="0" button="0" name="menu2"/>
+			<action ctrl="0" shift="0" alt="0" button="0" name="menu3"/>
+		</actions>
+	</mouse>
+	<tabs>
+		<tab title="Cygwin" use_default_icon="0">
+			<console shell="C:\cygwin64\Cygwin.bat" init_dir="/cygdrive/c" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="0">
+				<env var="PATH" value="%USERPROFILE%\bin;%PYTHON_HOME%;%PYTHON_HOME%\Scripts;%GIT_HOME%\bin;%GIT_HOME%\cmd;%TORTOISESVN_HOME%\bin;%TORTOISEHG_HOME%;%CHOCOLATEY_HOME%\bin;%WinDir%;%WinDir%\System32;%WinDir%\System32\Wbem;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin\;" check="1"/>
+				<env var="TAB_NAME" value="Cygwin" check="1"/>
+				<env var="PYTHON_HOME" value="C:\Python34" check="1"/>
+				<env var="GIT_HOME" value="C:\Program Files (x86)\Git" check="1"/>
+			</console>
+			<cursor style="0" r="0" g="0" b="0"/>
+			<background type="0" r="238" g="232" b="213">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+			<colors background_text_opacity="255">
+				<color id="0" r="238" g="232" b="213"/>
+				<color id="1" r="38" g="139" b="210"/>
+				<color id="2" r="133" g="153" b="0"/>
+				<color id="3" r="42" g="161" b="152"/>
+				<color id="4" r="220" g="50" b="47"/>
+				<color id="5" r="211" g="54" b="130"/>
+				<color id="6" r="181" g="137" b="0"/>
+				<color id="7" r="7" g="54" b="66"/>
+				<color id="8" r="0" g="43" b="54"/>
+				<color id="9" r="38" g="139" b="210"/>
+				<color id="10" r="133" g="153" b="0"/>
+				<color id="11" r="88" g="110" b="117"/>
+				<color id="12" r="203" g="75" b="22"/>
+				<color id="13" r="108" g="113" b="196"/>
+				<color id="14" r="131" g="148" b="150"/>
+				<color id="15" r="0" g="43" b="54"/>
+			</colors>
+		</tab>
+		<tab title="CGC" use_default_icon="0">
+			<console shell="C:\cygwin64\Cygwin.bat" init_dir="/cygdrive/c" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="0">
+				<env var="JAVA_HOME" value="M:\jdk6" check="1"/>
+				<env var="PATH" value="%JAVA_HOME%\bin;%ECLIPSE_HOME%;%CATALINA_HOME%\bin;%ANT_HOME%\bin;%M2_HOME%\bin;%OPENSSL_HOME%\bin;%USERPROFILE%\bin;%CXF_HOME%\bin;%PYTHON_HOME%;%PYTHON_HOME%\Scripts;%GIT_HOME%\bin;%GIT_HOME%\cmd;%TORTOISESVN_HOME%\bin;%TORTOISEHG_HOME%;%CHOCOLATEY_HOME%\bin;%WinDir%;%WinDir%\System32;%WinDir%\System32\Wbem;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin\;" check="1"/>
+				<env var="ANT_HOME" value="M:\ant" check="1"/>
+				<env var="ECLIPSE_HOME" value="M:\eclipse" check="1"/>
+				<env var="JAVA" value="%JAVA_HOME%\bin\java" check="1"/>
+				<env var="M2_HOME" value="M:\maven" check="1"/>
+				<env var="LOCAL_REPO" value="M:\m2repo" check="1"/>
+				<env var="LIFERAY_SDK_HOME" value="N:\mercurial\liferay-plugins-sdk-6.1.1" check="1"/>
+				<env var="PYTHON_HOME" value="C:\Python34" check="1"/>
+				<env var="GIT_HOME" value="C:\Program Files (x86)\Git" check="1"/>
+				<env var="CXF_HOME" value="M:\apache-cxf-3.0.0" check="1"/>
+				<env var="TORTOISESVN_HOME" value="C:\Program Files\TortoiseSVN" check="1"/>
+				<env var="TORTOISEHG_HOME" value="C:\Program Files\TortoiseHg" check="1"/>
+				<env var="CHOCOLATEY_HOME" value="C:\ProgramData\chocolatey" check="1"/>
+				<env var="TAB_NAME" value="CGC" check="1"/>
+				<env var="CATALINA_HOME" value="M:\liferay-portal-6.1.1-ce-ga2\tomcat-7.0.27" check="1"/>
+				<env var="JRE_HOME" value="M:\jre6" check="1"/>
+			</console>
+			<cursor style="0" r="0" g="0" b="0"/>
+			<background type="0" r="238" g="232" b="213">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="HCDSNS" use_default_icon="0">
+			<console shell="C:\cygwin64\Cygwin.bat" init_dir="/cygdrive/c" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="0">
+				<env var="JAVA_HOME" value="J:\jrockit" check="1"/>
+				<env var="PATH" value="~/bin;%JAVA_HOME%\bin;%ECLIPSE_HOME%;%GRADLE_HOME%\bin;%ANT_HOME%\bin;%M2_HOME%\bin;%OPENSSL_HOME%\bin;%USERPROFILE%\bin;%PANDOC_HOME%;%JBOSS_HOME%\bin;%CXF_HOME%\bin;%PYTHON_HOME%;%PYTHON_HOME%\Scripts;%GIT_HOME%\bin;%GIT_HOME%\cmd;%TORTOISESVN_HOME%\bin;%TORTOISEHG_HOME%;%CHOCOLATEY_HOME%\bin;%WinDir%;%WinDir%\System32;%WinDir%\System32\Wbem;%WinDir%\System32\WindowsPowerShell\v1.0\;%ProgramFiles(x86)%\UnixUtils;%ProgramFiles(x86)%\MultiMarkdown;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin\;" check="1"/>
+				<env var="ANT_HOME" value="J:\ant" check="1"/>
+				<env var="ECLIPSE_HOME" value="J:\eclipse" check="1"/>
+				<env var="JAVA" value="%JAVA_HOME%\bin\java" check="1"/>
+				<env var="JBOSS_HOME" value="J:\eap" check="1"/>
+				<env var="LIFERAY_SDK_HOME" value="J:\liferay-plugins-sdk" check="1"/>
+				<env var="M2_HOME" value="J:\maven" check="1"/>
+				<env var="LOCAL_REPO" value="J:\m2repo" check="1"/>
+				<env var="OPENSSL_CONF" value="%OPENSSL_HOME%\bin\openssl.cfg" check="1"/>
+				<env var="OPENSSL_HOME" value="J:\OpenSSL-Win64\" check="1"/>
+				<env var="PYTHON_HOME" value="C:\Python" check="1"/>
+				<env var="CXF_HOME" value="J:\cxf" check="1"/>
+				<env var="TORTOISESVN_HOME" value="C:\Program Files\TortoiseSVN" check="1"/>
+				<env var="TAB_NAME" value="HCDSNS" check="1"/>
+				<env var="PANDOC_HOME" value="%USERPROFILE%\AppData\Local\Pandoc" check="1"/>
+			</console>
+			<cursor style="0" r="0" g="0" b="0"/>
+			<background type="0" r="238" g="232" b="213">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="Android" use_default_icon="0">
+			<console shell="C:\cygwin64\Cygwin.bat" init_dir="/cygdrive/c" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="0">
+				<env var="JAVA_HOME" value="T:\jdk" check="1"/>
+				<env var="JRE_HOME" value="T:\jre" check="1"/>
+				<env var="ANT_HOME" value="T:\ant" check="1"/>
+				<env var="M2_HOME" value="T:\maven" check="1"/>
+				<env var="STUDIO_HOME" value="T:\studio" check="1"/>
+				<env var="JAVA" value="%JAVA_HOME%\bin\java" check="1"/>
+				<env var="LOCAL_REPO" value="T:\m2repo" check="1"/>
+				<env var="PYTHON_HOME" value="C:\Python34" check="1"/>
+				<env var="GIT_HOME" value="C:\Program Files (x86)\Git" check="1"/>
+				<env var="TORTOISESVN_HOME" value="C:\Program Files\TortoiseSVN" check="1"/>
+				<env var="TORTOISEHG_HOME" value="C:\Program Files\TortoiseHg" check="1"/>
+				<env var="TAB_NAME" value="Android" check="1"/>
+				<env var="PATH" value="~/bin;%JAVA_HOME%\bin;%STUDIO_HOME%\bin;%ANT_HOME%\bin;%M2_HOME%\bin;%USERPROFILE%\bin;%PANDOC_HOME%;%PYTHON_HOME%;%PYTHON_HOME%\Scripts;%RUBY_HOME%\bin;%GIT_HOME%\bin;%GIT_HOME%\cmd;%TORTOISESVN_HOME%\bin;%TORTOISEHG_HOME%;%WinDir%;%WinDir%\System32;%WinDir%\System32\Wbem;%WinDir%\System32\WindowsPowerShell\v1.0\;%ProgramFiles(x86)%\UnixUtils;%ProgramFiles(x86)%\MultiMarkdown;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin\;" check="1"/>
+				<env var="PANDOC_HOME" value="%USERPROFILE%\AppData\Local\Pandoc" check="1"/>
+				<env var="RUBY_HOME" value="C:\Ruby21-x64" check="1"/>
+			</console>
+			<cursor style="0" r="0" g="0" b="0"/>
+			<background type="0" r="238" g="232" b="213">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="DOS" use_default_icon="0">
+			<console shell="C:\Windows\System32\cmd.exe" init_dir="C:\" priority="2" run_as_user="0" user="" net_only="0" run_as_admin="0">
+				<env var="PATH" value="%USERPROFILE%\bin;%PYTHON_HOME%;%PYTHON_HOME%\Scripts;%GIT_HOME%\bin;%GIT_HOME%\cmd;%TORTOISESVN_HOME%\bin;%TORTOISEHG_HOME%;%CHOCOLATEY_HOME%\bin;%WinDir%;%WinDir%\System32;%WinDir%\System32\Wbem;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin\;" check="1"/>
+				<env var="TAB_NAME" value="DOS" check="1"/>
+				<env var="PYTHON_HOME" value="C:\Python34" check="1"/>
+				<env var="GIT_HOME" value="C:\Program Files (x86)\Git" check="1"/>
+			</console>
+			<background type="0" r="0" g="0" b="0">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+			<colors background_text_opacity="255">
+				<color id="0" r="0" g="0" b="0"/>
+				<color id="1" r="0" g="0" b="128"/>
+				<color id="2" r="0" g="128" b="0"/>
+				<color id="3" r="0" g="128" b="128"/>
+				<color id="4" r="128" g="0" b="0"/>
+				<color id="5" r="128" g="0" b="128"/>
+				<color id="6" r="128" g="128" b="0"/>
+				<color id="7" r="192" g="192" b="192"/>
+				<color id="8" r="128" g="128" b="128"/>
+				<color id="9" r="0" g="0" b="255"/>
+				<color id="10" r="0" g="255" b="0"/>
+				<color id="11" r="0" g="255" b="255"/>
+				<color id="12" r="255" g="0" b="0"/>
+				<color id="13" r="255" g="0" b="255"/>
+				<color id="14" r="255" g="255" b="0"/>
+				<color id="15" r="255" g="255" b="255"/>
+			</colors>
+		</tab>
+	</tabs>
+	<external_commands>
+
+
+
+
+
+</external_commands>
+</settings>

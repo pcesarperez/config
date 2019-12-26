@@ -1,0 +1,27 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(100, 10)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(100, 10)"
+			},
+			"key": "3089b09be429642247cee78b0582896e",
+			"label": "\\i(100, 10)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i(100, 10)"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i(100, 10)"
+	}
+}

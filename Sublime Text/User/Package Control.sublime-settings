@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"ANTLR syntax highlight",
+		"ApacheConf.tmLanguage",
+		"Asciidoctor",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Evernote",
+		"GhostText",
+		"GitGutter",
+		"Gradle_Language",
+		"Indent XML",
+		"Java Velocity",
+		"JsonTree",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Obsidian Color Scheme",
+		"Package Control",
+		"Pandoc",
+		"PowerShell",
+		"Pretty JSON",
+		"Shell Turtlestein",
+		"TrailingSpaces"
+	]
+}

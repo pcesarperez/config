@@ -1,0 +1,26 @@
+{
+	"code_friendly": false,
+	"emphasis_mark": "_",
+	"inline_css":
+	{
+		"blockquote": "border-left: .5ex solid #BFBFBF; margin-left: 0px; padding-left: 1em; margin-top: 1.4285em; margin-bottom: 1.4285em;",
+		"code": "color: #0F0F0F; font-family: Consolas; font-size: 0.9em;",
+		"footnotes": "border-top: 1px solid #9AB39B; font-size: 80%;",
+		"h1": "margin-bottom: 1em; margin-top: 1.2em;",
+		"hr": "color:#9AB39B;background-color:#9AB39B;height:1px;border:none;",
+		"inline-code": "color: #0F0F0F; font-family: Consolas; padding: 0.1em 0.2em; margin: 0.1em; font-size: 75%; background-color: #F5F5F5; border-radius: 3px; border: 1px solid #cccccc;",
+		"pre": "color: #0F0F0F; font-family: Consolas; font-size: 0.9em; white-space: pre-wrap; word-wrap: break-word; border: 1px solid #cccccc; border-radius: 3px; overflow: auto; padding: 6px 10px; margin-bottom: 10px;",
+		"sup": "color:#6D6D6D;font-size:1ex",
+		"table": "border-collapse: collapse; border-spacing: 0; margin: 1em;",
+		"td": "border: 1px solid #DDD; padding: 6px 13px;",
+		"th": "border: 1px solid #DDD; padding: 6px 13px;",
+		"tr:even": "border: 1px solid #DDD; padding: 6px 13px; background-color: #F8F8F8;",
+		"tr:odd": "border: 1px solid #DDD; padding: 6px 13px;"
+	},
+	"item_mark": "*",
+	"md_syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+	"noteStoreUrl": "https://www.evernote.com/shard/s115/notestore",
+	"strong_mark": "**",
+	"token": "S=s115:U=bbbd82:E=15857c32e7e:C=15100120258:P=1cd:A=en-devtoken:V=2:H=c628f4dace5e35c0f9e36328b022a18f",
+	"update_on_save": true
+}

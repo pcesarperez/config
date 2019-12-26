@@ -1,0 +1,1198 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 669.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"test",
+						"testScenario7"
+					],
+					[
+						"Check",
+						"CheckIfEmptyStringTest"
+					],
+					[
+						"print",
+						"printTest"
+					],
+					[
+						"shor",
+						"shortFormatter"
+					],
+					[
+						"depe",
+						"dependsOn"
+					],
+					[
+						"C",
+						"Creating a proper shortcut\ttitle"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 236.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"set syntax:pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"colorsubli",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colorsi",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"kotli",
+						"Set Syntax: Kotlin"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"GitGutter: Support Info"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"packagecontrolinstall",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontrolin",
+						"Package Control: Install Package"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package control:in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pac",
+						"Install Package Control"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/OCA/BasicPolymorphism/TestingAllEscenarios.java",
+				"/E/OCA/interfaces/DisgustingAndImpossiblePerson.java",
+				"/E/OCA/interfaces/DisgustingPerson.java",
+				"/E/OCA/interfaces/CanBeGross.java",
+				"/E/OCA/interfaces/CanFart.java",
+				"/E/OCA/BasicPolymorphism/MyIsolatedClass.java",
+				"/E/OCA/FinalStaticInitialization.java",
+				"/E/OCA/interfaces/OverridenInterface1.java",
+				"/E/OCA/interfaces/OverridenInterface2.java",
+				"/E/OCA/interfaces/ClassImplementingOverloadedInterfaces.java",
+				"/E/OCA/interfaces/ClassImplementingOverridenInterfaces.java",
+				"/E/OCA/interfaces/OverloadedInterface1.java",
+				"/E/OCA/interfaces/OverloadedInterface2.java",
+				"/E/OCA/interfaces/Fucker.java",
+				"/E/OCA/interfaces/CanFuck.java",
+				"/E/OCA/interfaces/a/CanShit.java",
+				"/E/OCA/interfaces/b/Shitter.java",
+				"/E/OCA/interfaces/OverridenInterface.java",
+				"/E/OCA/EmptyInterface.java",
+				"/E/OCA/bar/Lol.java",
+				"/E/Users/adastra/Downloads/G2/GothicVDFS/ReadMe.txt",
+				"/E/Users/adastra/Downloads/G2/Gothic_1-2_fullscreen_fixes/install.bat",
+				"/E/Users/adastra/Downloads/G2/Gothic_1-2_fullscreen_fixes/readme.txt",
+				"/C/Users/adastra/AppData/Local/Temp/7zO8E92F19E/readme.txt",
+				"/C/Games/GOG Galaxy/Games/Gothic 2 Gold/system/Gothic.ini",
+				"/C/Games/GOG Galaxy/Games/Gothic 2 Gold/system/SystemPack.ini",
+				"/C/Users/adastra/AppData/Local/Temp/7zO8A614122/Readme_G_mem_fix_en.txt",
+				"/E/OCA/hidingAndOverriding/Parent.java",
+				"/E/OCA/hidingAndOverriding/Child.java",
+				"/E/Users/adastra/Documents/My Games/borderlands/WillowGame/Config/WillowEngine.ini",
+				"/E/Users/adastra/Documents/My Games/borderlands/WillowGame/Config/WillowGearboxLabs.ini",
+				"/E/Users/adastra/Documents/My Games/borderlands/WillowGame/Config/WillowGame.ini",
+				"/E/OCA/HidingAndOverriding.java",
+				"/E/OCA/covariant/Foo.java",
+				"/E/OCA/covariant/Bar.java",
+				"/E/OCA/constructors/ChildWhichExtendsParentWithNoDefaultConstructor.java",
+				"/C/Games/Exult/bgdefaultkeys.txt",
+				"/E/OCA/constructors/ParentWithNoDefaultConstructor.java",
+				"/C/Games/Exult/exult.cfg.example",
+				"/C/Games/Exult/data/README_audiopack.txt",
+				"/E/OCA/ExtendingPrivate.java",
+				"/E/OCA/ChainingSuper.java",
+				"/E/OCA/constructors/ParentWithDefaultConstructor.java",
+				"/E/OCA/constructors/ChildWhichExtendsParentWithDefaultConstructor.java",
+				"/E/OCA/constructors/ParetWithNoDefaultConstructor.java",
+				"/E/OCA/constructors/Foo.java",
+				"/E/OCA/constructors/Bar.java",
+				"/C/Users/adastra/AppData/Local/Temp/7zOCE121341/Readme.txt",
+				"/C/Games/Exult/README.win32.txt",
+				"/C/Games/GOG Galaxy/Games/Ultima 7/mods/Keyring/Readme.txt",
+				"/C/Users/adastra/AppData/Local/Temp/7zOC9C5486F/ReadMe.txt",
+				"/E/OCA/Review/Ch4/my/school/Classroom.java",
+				"/E/OCA/lambdas/CheckIfEmptyString2.java",
+				"/E/OCA/lambdas/CheckString.java",
+				"/E/OCA/lambdas/CheckIfEmptyString.java",
+				"/E/OCA/lambdas/CheckIfEmptyStringTest.java",
+				"/E/OCA/lambdas/CheckIfEmptyStringPredicate.java",
+				"/E/OCA/RemoveFuck.java",
+				"/E/OCA/Review/Ch4/my/city/Classroom.java",
+				"/C/Users/adastra/AppData/Local/Temp/7zOCEB64250/meta.ini",
+				"/C/Users/adastra/AppData/Local/Temp/7zO4489E631/meta.ini",
+				"/E/OCA/IntegralOverload.java",
+				"/E/OCA/NotUsingThis.java",
+				"/E/OCA/PrivateConstructor.java",
+				"/E/OCA/InitializationChain.java",
+				"/E/OCA/DefensiveCopy.java",
+				"/C/Games/Steam/steamapps/common/Skyrim Special Edition/CreationKitCustom.ini",
+				"/E/Users/adastra/Desktop/myhotkeys.ahk",
+				"/E/OCA/OverloadingWeight.java",
+				"/E/OCA/ExtremeSubstring.java",
+				"/E/OCA/MultipleOptionalSpecifiers.java",
+				"/E/OCA/AnonymousVargars.java",
+				"/E/OCA/foo/Foo.java",
+				"/E/OCA/foo/Bar.java",
+				"/E/OCA/foo/Tipi.java",
+				"/E/OCA/foo/Spam.java",
+				"/E/OCA/bar/Wat.java",
+				"/E/OCA/PrivateAccess.java",
+				"/E/OCA/DefaultAccess1.java",
+				"/E/OCA/DefaultAccess2.java",
+				"/E/OCA/foo/DefaultAccess3.java",
+				"/E/OCA/bar/DefaultAccess4.java",
+				"/E/OCA/DefaultAccess.java",
+				"/E/OCA/MixingDateChecking.java",
+				"/E/OCA/DateExtraction.java",
+				"/E/OCA/TimeExtraction.java",
+				"/E/OCA/DateTimeFormatting.java",
+				"/E/OCA/BadDateTimeFormatting.java",
+				"/E/OCA/ArrayListToArray.java",
+				"/E/OCA/ArrayListToArraySize.java",
+				"/E/OCA/BackedListToArrayList.java",
+				"/E/OCA/ArrayListSize.java",
+				"/E/OCA/ArrayListLooseStrict.java",
+				"/E/OCA/ArrayListFakeRemove.java",
+				"/E/OCA/ArrayListTrueRemove.java",
+				"/E/OCA/FirstTest.java",
+				"/E/OCA/MoreComplexMultidimensionalArray.java",
+				"/E/OCA/MultidimensionalArrayTraverse.java",
+				"/E/OCA/MultidimensionalArrayTraverse2.java",
+				"/E/OCA/ArrayStringPool.java",
+				"/E/OCA/ArrayEquality.java",
+				"/E/OCA/ObjectArray.java",
+				"/E/OCA/ArraySortingFloat.java",
+				"/E/OCA/ArrayBinarySearchNotFound.java",
+				"/E/OCA/MultidimensionalArray.java",
+				"/E/OCA/Visible.java",
+				"/E/OCA/ExtremeIndexOf.java",
+				"/E/OCA/StringPool.java",
+				"/E/OCA/StringBuilderAppend.java",
+				"/E/OCA/StringBuilderDeletion.java",
+				"/E/OCA/StringBuilderEquality.java",
+				"/E/OCA/StringEquality.java",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.10-Where-the-fuck-is-the-tilde-key-anyway.adoc",
+				"/C/Games/Steam/steamapps/common/Fallout 3 goty/RemapConsoleKey.txt",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.9-Patching-the-game.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.8-You-don't-want-the-Ink-Spots-to-stutter-do-you.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.7-Tweaking-the-INI-files.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.6-Cleaning-up-the-master-files.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.5-Setting-up-the-foundation-for-our-modding.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.4-Enabling-access-to-4-GB-plus-of-memory.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.3-Enabling-back-Steam-Overlay.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.2-Disable-Games-for-Windows-Live.adoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/DEFCON-01/9.1-Creating-the-profile.adoc",
+				"/C/Games/Steam/steamapps/common/Fallout 3 goty/Mod Organizer/profiles/DEFCON 03 (Refined User Interface)/fallout.ini",
+				"/C/Games/Steam/steamapps/common/Fallout 3 goty/Mod Organizer/profiles/DEFCON 02 (User Interface)/fallout.ini",
+				"/E/Users/adastra/Documents/My Games/Fallout3/Fallout.ini",
+				"/C/Games/Steam/steamapps/common/Fallout 3 goty/Mod Organizer/profiles/DEFCON 01 (Bug Fixes and Performance)/fallout.ini",
+				"/C/Games/Steam/steamapps/common/Fallout 3 goty/Mod Organizer/profiles/DEFCON 03 (Refined User Interface)/fallout3.ini"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Gearbox",
+					"getBar",
+					"bar",
+					"num",
+					"add",
+					"customFormatter",
+					"Download with",
+					"http:",
+					"\\$FO3_HOME",
+					"$FO3_HOME",
+					"http:",
+					"https",
+					"http",
+					"Font",
+					"General",
+					"but not necessarily fix any errors",
+					"GeneralWarnings",
+					"\\[\\$(.*?)\\\\",
+					"http",
+					"httpss",
+					"http",
+					"\\$",
+					"http",
+					"GPath",
+					"shellcon",
+					"http:",
+					"https",
+					"http:",
+					"$",
+					"http:",
+					"$",
+					"%",
+					"http:",
+					"https:",
+					"there",
+					"include::24",
+					"include::23",
+					"include::22",
+					"include::21",
+					"include::20",
+					"include::19",
+					"include::18",
+					"include::17",
+					"include::16",
+					"include::15",
+					"include::14",
+					"include::13",
+					"include::12",
+					"include::11",
+					"include::10",
+					"include::2-DEFCON-01",
+					"include::1-DEFCON-00",
+					"include::0-Intro",
+					"2-DEFCON-01",
+					"1-DEFCON-00",
+					"0-Intro",
+					"$",
+					"^",
+					"\\*$",
+					"01-DEFCON-00",
+					"00-Intro",
+					"$",
+					"^",
+					"$",
+					"^",
+					"\\*$",
+					"\\.adoc\\*",
+					"include::Intro",
+					"Intro",
+					"html",
+					"\\.foo",
+					"foo",
+					"rootdir",
+					"projectdir",
+					"image:[^:]",
+					"image:([^:])(.*?)\\[(.*?), title=\"(.*?)\"\\]",
+					"image:[^:]",
+					"image::(.*?)\\[(.*?), title=\"(.*?)\"\\]",
+					"title=\".*?,.*?\"",
+					"\\*\\*.*?\\*\\*",
+					"\\*.*?\\*",
+					"\\*\\*",
+					"rarr",
+					"larr",
+					"->",
+					"rarr",
+					"Right-click anywhere in the left pane and select",
+					"```",
+					" =",
+					"Spanish is a bit weird regarding to numerals (not so much as French, however). There are a few quirks along the way you should take into account.\n\nThe first rule is `r0`, which covers the numeral \"cero\" (0). This numeral may only appear alone.\n\n```\nr0 = ('cero');\n```\n\nThe second rule is `r1`, which covers one-word numerals ranging from from \"uno\" (1) to \"nueve\" (9).\n\n```\nr1 = ('uno' | 'dos' | ... | 'nueve');\n```\n\nThe third rule is `r2`, which contains the rest of one-word numerals from \"diez\" (10) to \"veintinueve\" (29).\n\n```\nr2 = ('diez' | 'once' | ... | 'veintinueve');\n```\n\nThe fourth rule, `r3`, is the first composite rule, as it has a prefix (the tens), and an optional group with a connector (\"y\") and a suffix (the rule `r1`, which contains the units). These numerals range from \"treinta\" (0) to \"noventa y nueve\" (99).\n\n```\nr3 = (tens (WHITESPACES 'y' WHITESPACES r1)?);\ntens = ('treinta' | 'cuarenta' | ... | 'noventa');\n```\n\nThe fifth rule is straightforward, and covers the numeral \"cien\" (100). This is also a game-over rule, like `r0`.\n\n```\nr4 = ('cien')\n```\n\nThe sixth rule is another composite rule. It has a prefix with the numeral \"ciento\" (which means 100 although it never may appear alone), and a suffix with rule `r1`, `r2` or `r3`. From this point on, numerals are always built upon previous rules. This rule ranges from \"ciento uno\" (101) to \"ciento noventa y nueve\" (199).\n\n```\nr5 = ('ciento' WHITESPACES (r1 | r2 | r3));\n```\n\nThe seventh and last rule is similar to the previous one, replacing the prefix with a set of hundreds. This rule covers numerals from \"doscientos\" (200) to \"novecientos noventa y nueve\" (999).\n\n```\nr6 = (hundreds (WHITESPACES (r1 | r2 | r3))?);\nhundreds = ('doscientos' | 'trescientos' | ... | 'novecientos');\n```",
+					" and",
+					"^",
+					"[ ]*\"",
+					"^(.*?),(.*?),(.*?),(.*?),(.*?)$",
+					"<td>.*?<br>(.*)</td>",
+					"<td>1<br>one</td>",
+					"<td>.*?<br>(.*)</td>",
+					"^(.*?);(.*?)$",
+					"<br>",
+					"<td>.*?<br>(.*)</td>",
+					"</?tr>\\n",
+					"antlrGeneratedSourceDir",
+					"antlrGrammarsDir",
+					"sourceSets",
+					"antlrGrammarsDir",
+					"white",
+					"^(.*?);(.*?)$",
+					"^.*?<i>(.*?)<\\/i>.*?$",
+					"^(.*?);(.*?)$",
+					"^.*?<i>(.*?)<\\/i>.*?$",
+					"%FileTypeKey%",
+					"Compile",
+					"select the option Set data directory to mark it as the top-level folder",
+					"dateBelongsToThePast",
+					"budgetBelongsToThePast",
+					"budgetHasBeenClosedYet",
+					"Items",
+					"Apparel",
+					"version number",
+					"NexusFile",
+					"null",
+					"table",
+					"^",
+					"^(.*?)$",
+					"-ICU",
+					"-ICEE",
+					"-IAH",
+					"^(.*?)-(.*?)::.*?\\t(.*?)$"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"https:",
+					"%FO3_HOME%",
+					"https:",
+					"https",
+					"[%\\1%\\",
+					"https",
+					"https:",
+					"[]\\n",
+					"include::2-DEFCON-01/",
+					"",
+					"[]\\n",
+					"include::01-DEFCON-00/",
+					"[]\\n",
+					"[]",
+					"include::",
+					"",
+					"image:\\1\\2[\"\\3\", title=\"\\4\"]",
+					"image::\\1[\"\\2\", title=\"\\3\"]",
+					":",
+					"",
+					"\\t\\t\\t",
+					"\"",
+					"assertEquals (\\5, numeralsConverter.convertNumeralToNumber (\"\\1 \\2 \\3 \\4\").intValue ( ));",
+					"\\1",
+					"\\t\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"",
+					"\\1",
+					"",
+					"\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"\\1",
+					"\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"\\1",
+					"* ",
+					"\\t\\t\\1,",
+					"\\t\\t'\\1',",
+					"",
+					"\\1-\\3-\\2",
+					"\\t\\t\\1,",
+					"\\t\\t'\\1',",
+					"",
+					"\\1-\\3-\\2",
+					"\\t\\t\\1,",
+					"^\\t\\t\\1,",
+					"        * `\\1`",
+					"        * ",
+					"",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"Pablo:",
+					"DUI F3",
+					";Disabled",
+					"Enabled",
+					"Core",
+					"Appendix-1",
+					"git mv src/main/resources/images/DEFCON-01-\\1 src/main/resources/Appendix-1-\\1",
+					"git mv DEFCON-01-\\1 Appendix-1-\\1",
+					"png",
+					"",
+					"## \\1",
+					"*OK*",
+					"$XEDIT_HOME",
+					"$LOOT_HOME",
+					"$FO3_HOME",
+					"$STEAM_HOME",
+					"$USERPROFILE"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 802.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fina",
+						"finally"
+					],
+					[
+						"Exce",
+						"ExceptionInInitializerExample"
+					],
+					[
+						"Ex",
+						"ExceptionInInitializerExample"
+					],
+					[
+						"tes",
+						"test3"
+					],
+					[
+						"test",
+						"test2"
+					],
+					[
+						"Check",
+						"CheckIfEmptyStringTest"
+					],
+					[
+						"print",
+						"printTest"
+					],
+					[
+						"shor",
+						"shortFormatter"
+					],
+					[
+						"depe",
+						"dependsOn"
+					],
+					[
+						"C",
+						"Creating a proper shortcut\ttitle"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 236.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"set syntax:pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"colorsubli",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colorsi",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"kotli",
+						"Set Syntax: Kotlin"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"GitGutter: Support Info"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"packagecontrolinstall",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontrolin",
+						"Package Control: Install Package"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package control:in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pac",
+						"Install Package Control"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Users/adastra/Downloads/stremioExport.json",
+				"/Z/Pictures/Icons/LePepinoReduxDefaultIcons.reg",
+				"/Z/.config/QuickAccessPopup/LePepinoRedux/QuickAccessPopup.ini",
+				"/C/Users/adastra/AppData/Roaming/Quick Access Popup/QuickAccessPopup.ini",
+				"/Z/.config/QuickAccessPopup/LePepinoRedux/.location",
+				"/Z/.config/AutoHotkey/Witcher3.ahk",
+				"/C/Users/adastra/AppData/Local/Temp/7zOCBD8F4FF/general.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/audio.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/dlc.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/engine.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/gameplay.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/gc.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/general.ini",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/base/general - Copy.ini",
+				"/Z/.config/AutoHotkey/myhotkeys_F7.ahk",
+				"/Z/.config/AutoHotkey/myhotkeys.ahk",
+				"/Z/.config/AutoHotkey/extra.ahk",
+				"/E/Users/adastra/Desktop/Citas.xml",
+				"/E/Users/adastra/Downloads/ModKit 1.3-3173-1-3/ReadMe.txt",
+				"/E/Witcher3/user.settings",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/bin/config/r4game/user_config_matrix/pc/input.xml",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/modAutoLootMenu/input_xml.txt",
+				"/E/Witcher3/input.settings",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/modAutoLootMenu/key_bindings.txt",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/vortex.deployment.json",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/ReadMe!.txt",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/modDemon2Eyes/content/texture.cache",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/modDemon2Eyes/content/metadata.store",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/modDemon2Eyes/content/blob0.bundle",
+				"/E/Users/adastra/Documents/The Witcher 3/user.settings",
+				"/E/Users/adastra/Documents/The Witcher 3/input.settings",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/INSTALL NOW PART 2.txt",
+				"/C/Games/GOG Galaxy/Games/The Witcher 3 Wild Hunt GOTY/Mods/INSTALL NOW PART 3.txt",
+				"/E/Users/adastra/Downloads/Collection Of Dan Simmons Books/Read me first thanks.txt",
+				"/E/OCA/java8_2019/testApp/ETSWF_com_enthuware_ets_oca-jp-i_v8/tr_2019-06-30-19-30-57",
+				"/E/OCA/tmp/OnlyYou.java",
+				"/E/OCA/tmp/Bar.java",
+				"/E/OCA/tmp/Breaking.java",
+				"/E/OCA/tmp/WTF.java",
+				"/E/OCA/tmp/Calculator.java",
+				"/E/OCA/tmp/Foo.java",
+				"/E/OCA/Temp/Test.java",
+				"/E/OCA/java8_2019/testApp/LEEME_1Z0_808.txt",
+				"/E/OCA/New folder/my/school/Classroom.java",
+				"/E/OCA/ModifierOrder.java",
+				"/E/Users/adastra/Documents/My Games/Borderlands Game of the Year/WillowGame/Config/WillowEngine.ini",
+				"/E/OCA/casting/Foo.java",
+				"/E/OCA/casting/Bar.java",
+				"/E/OCA/casting/Test.java",
+				"/E/OCA/interfaces/CanBeGross.java",
+				"/E/OCA/interfaces/CanFart.java",
+				"/E/OCA/interfaces/DisgustingPerson.java",
+				"/E/OCA/interfaces/DisgustingAndImpossiblePerson.java",
+				"/E/OCA/interfaces/ClassImplementingOverridenInterfaces.java",
+				"/E/OCA/conflictingInterfaces/A.java",
+				"/E/OCA/conflictingInterfaces/B.java",
+				"/E/OCA/conflictingInterfaces/C.java",
+				"/E/OCA/defaultInterfaceMethodVisibility/foo/CanFuck.java",
+				"/E/OCA/defaultInterfaceMethodVisibility/bar/Fucker.java",
+				"/E/OCA/hidingAndOverriding/Parent.java",
+				"/E/OCA/hidingAndOverriding/Child.java",
+				"/E/OCA/Separators.java",
+				"/E/OCA/protectedAccessDifferentPackage/foo/A.java",
+				"/E/OCA/protectedAccessDifferentPackage/bar/B.java",
+				"/E/OCA/protectedAccessDifferentPackage/bar/C.java",
+				"/E/OCA/protectedAccessDifferentPackage/bar/D.java",
+				"/E/OCA/protectedAccessSamePackage/B.java",
+				"/E/OCA/protectedAccess/A.java",
+				"/E/OCA/protectedAccess/B.java",
+				"/E/OCA/protectedAccess/C.java",
+				"/E/OCA/protectedAccess/D.java",
+				"/E/OCA/TernaryAutoboxing.java",
+				"/E/OCA/GlitchedBreakingLoop.java",
+				"/E/OCA/NotCapturingException.java",
+				"/E/OCA/ReturningTry.java",
+				"/Z/Documents/Articles/modding-never-changes-vol-2.wiki/Changelog.asciidoc",
+				"/E/OCA/exceptionSubclassing/CannotFuckException.java",
+				"/E/OCA/exceptionSubclassing/DisgracefulMan.java",
+				"/E/OCA/exceptionSubclassing/SmallPenisException.java",
+				"/E/OCA/exceptionSubclassing/NotYourAverageFucker.java",
+				"/Z/Documents/Articles/Modding-never-changes/src/main/docs/Modding never changes.asciidoc",
+				"/Z/Documents/Articles/Modding-never-changes-vol-2/src/main/docs/Modding never changes vol 2.adoc",
+				"/E/OCA/exceptionSubclassing/ExceptionSubclassing.java",
+				"/E/OCA/ExceptionSubclassing.java",
+				"/E/OCA/NestedExceptions.java",
+				"/E/OCA/ClassCastExample.java",
+				"/E/OCA/IllegalArgumentExample.java",
+				"/E/OCA/ExceptionInInitializerExample.java",
+				"/E/OCA/NotHandlingRuntimeException.java",
+				"/E/OCA/WrappingExceptions.java",
+				"/E/OCA/WhyTheFuckThisExceptionHandlingCompiles.java",
+				"/E/OCA/polymorphicCasting/Foo.java",
+				"/E/OCA/Bird.java",
+				"/E/OCA/DeclaringUncheckedException.java",
+				"/E/OCA/NoCatchIdentifier.java",
+				"/E/OCA/ClownFish.java",
+				"/E/OCA/Pelican.java",
+				"/E/OCA/Owl.java",
+				"/E/OCA/InterfaceCasting.java",
+				"/C/Users/adastra/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Users/adastra/Downloads/Farscape Season 1, 2, 3 & 4 + Extras BDRip TSV/TSV/Read Me - TSV.txt",
+				"/E/Users/adastra/Downloads/Farscape Season 1, 2, 3 & 4 + Extras BDRip TSV/TSV/Subtitles.txt",
+				"/E/OCA/polymorphicCasting/Test.java",
+				"/E/OCA/virtualMethods/Mammal.java",
+				"/E/OCA/virtualMethods/Cat.java",
+				"/E/OCA/virtualMethods/Test.java",
+				"/E/OCA/polymorphism/MyParent.java",
+				"/E/OCA/BasicPolymorphism/MyIsolatedParent.java",
+				"/E/OCA/BasicPolymorphism/MyClassExtendingIsolatedParent.java",
+				"/E/OCA/BasicPolymorphism/MyParentImplementingInterface.java",
+				"/E/OCA/BasicPolymorphism/MyIsolatedClass.java",
+				"/E/OCA/BasicPolymorphism/MyInterface.java",
+				"/E/OCA/BasicPolymorphism/MyClassImplementingInterface.java",
+				"/E/OCA/BasicPolymorphism/MyClassExtendingParentImplementingInterface.java",
+				"/E/OCA/BasicPolymorphism/TestingAllScenarios.java",
+				"/E/OCA/polymorphism/MyInterface.java",
+				"/E/OCA/polymorphism/MyClass.java",
+				"/E/OCA/polymorphism/TestingPolymorphism.java",
+				"/E/OCA/polymorphicCasting/Bar.java",
+				"/E/OCA/polymorphicCasting/Tipi.java",
+				"/E/OCA/BasicPolymorphism/TestingAllEscenarios.java",
+				"/E/OCA/FinalStaticInitialization.java",
+				"/E/OCA/interfaces/OverridenInterface1.java",
+				"/E/OCA/interfaces/OverridenInterface2.java",
+				"/E/OCA/interfaces/ClassImplementingOverloadedInterfaces.java",
+				"/E/OCA/interfaces/OverloadedInterface1.java",
+				"/E/OCA/interfaces/OverloadedInterface2.java",
+				"/E/OCA/interfaces/Fucker.java"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 101.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Fallout 4",
+					"Opera",
+					"opera",
+					"Opera",
+					"adver",
+					"-----",
+					"----------",
+					"verbo",
+					"sustantivo",
+					"adjetivo",
+					"Exploration",
+					"\\[Exploration\\]",
+					"Group builder=\"Input\" id=\"PCInput\"",
+					"Exploration",
+					"Gearbox",
+					"getBar",
+					"bar",
+					"num",
+					"add",
+					"customFormatter",
+					"Download with",
+					"http:",
+					"\\$FO3_HOME",
+					"$FO3_HOME",
+					"http:",
+					"https",
+					"http",
+					"Font",
+					"General",
+					"but not necessarily fix any errors",
+					"GeneralWarnings",
+					"\\[\\$(.*?)\\\\",
+					"http",
+					"httpss",
+					"http",
+					"\\$",
+					"http",
+					"GPath",
+					"shellcon",
+					"http:",
+					"https",
+					"http:",
+					"$",
+					"http:",
+					"$",
+					"%",
+					"http:",
+					"https:",
+					"there",
+					"include::24",
+					"include::23",
+					"include::22",
+					"include::21",
+					"include::20",
+					"include::19",
+					"include::18",
+					"include::17",
+					"include::16",
+					"include::15",
+					"include::14",
+					"include::13",
+					"include::12",
+					"include::11",
+					"include::10",
+					"include::2-DEFCON-01",
+					"include::1-DEFCON-00",
+					"include::0-Intro",
+					"2-DEFCON-01",
+					"1-DEFCON-00",
+					"0-Intro",
+					"$",
+					"^",
+					"\\*$",
+					"01-DEFCON-00",
+					"00-Intro",
+					"$",
+					"^",
+					"$",
+					"^",
+					"\\*$",
+					"\\.adoc\\*",
+					"include::Intro",
+					"Intro",
+					"html",
+					"\\.foo",
+					"foo",
+					"rootdir",
+					"projectdir",
+					"image:[^:]",
+					"image:([^:])(.*?)\\[(.*?), title=\"(.*?)\"\\]",
+					"image:[^:]",
+					"image::(.*?)\\[(.*?), title=\"(.*?)\"\\]",
+					"title=\".*?,.*?\"",
+					"\\*\\*.*?\\*\\*",
+					"\\*.*?\\*",
+					"\\*\\*",
+					"rarr",
+					"larr",
+					"->",
+					"rarr",
+					"Right-click anywhere in the left pane and select",
+					"```",
+					" =",
+					"Spanish is a bit weird regarding to numerals (not so much as French, however). There are a few quirks along the way you should take into account.\n\nThe first rule is `r0`, which covers the numeral \"cero\" (0). This numeral may only appear alone.\n\n```\nr0 = ('cero');\n```\n\nThe second rule is `r1`, which covers one-word numerals ranging from from \"uno\" (1) to \"nueve\" (9).\n\n```\nr1 = ('uno' | 'dos' | ... | 'nueve');\n```\n\nThe third rule is `r2`, which contains the rest of one-word numerals from \"diez\" (10) to \"veintinueve\" (29).\n\n```\nr2 = ('diez' | 'once' | ... | 'veintinueve');\n```\n\nThe fourth rule, `r3`, is the first composite rule, as it has a prefix (the tens), and an optional group with a connector (\"y\") and a suffix (the rule `r1`, which contains the units). These numerals range from \"treinta\" (0) to \"noventa y nueve\" (99).\n\n```\nr3 = (tens (WHITESPACES 'y' WHITESPACES r1)?);\ntens = ('treinta' | 'cuarenta' | ... | 'noventa');\n```\n\nThe fifth rule is straightforward, and covers the numeral \"cien\" (100). This is also a game-over rule, like `r0`.\n\n```\nr4 = ('cien')\n```\n\nThe sixth rule is another composite rule. It has a prefix with the numeral \"ciento\" (which means 100 although it never may appear alone), and a suffix with rule `r1`, `r2` or `r3`. From this point on, numerals are always built upon previous rules. This rule ranges from \"ciento uno\" (101) to \"ciento noventa y nueve\" (199).\n\n```\nr5 = ('ciento' WHITESPACES (r1 | r2 | r3));\n```\n\nThe seventh and last rule is similar to the previous one, replacing the prefix with a set of hundreds. This rule covers numerals from \"doscientos\" (200) to \"novecientos noventa y nueve\" (999).\n\n```\nr6 = (hundreds (WHITESPACES (r1 | r2 | r3))?);\nhundreds = ('doscientos' | 'trescientos' | ... | 'novecientos');\n```",
+					" and",
+					"^",
+					"[ ]*\"",
+					"^(.*?),(.*?),(.*?),(.*?),(.*?)$",
+					"<td>.*?<br>(.*)</td>",
+					"<td>1<br>one</td>",
+					"<td>.*?<br>(.*)</td>",
+					"^(.*?);(.*?)$",
+					"<br>",
+					"<td>.*?<br>(.*)</td>",
+					"</?tr>\\n",
+					"antlrGeneratedSourceDir",
+					"antlrGrammarsDir",
+					"sourceSets",
+					"antlrGrammarsDir",
+					"white",
+					"^(.*?);(.*?)$",
+					"^.*?<i>(.*?)<\\/i>.*?$",
+					"^(.*?);(.*?)$",
+					"^.*?<i>(.*?)<\\/i>.*?$",
+					"%FileTypeKey%",
+					"Compile",
+					"select the option Set data directory to mark it as the top-level folder",
+					"dateBelongsToThePast"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"_____",
+					"__________",
+					"-----",
+					"----------",
+					"________",
+					"https:",
+					"%FO3_HOME%",
+					"https:",
+					"https",
+					"[%\\1%\\",
+					"https",
+					"https:",
+					"[]\\n",
+					"include::2-DEFCON-01/",
+					"",
+					"[]\\n",
+					"include::01-DEFCON-00/",
+					"[]\\n",
+					"[]",
+					"include::",
+					"",
+					"image:\\1\\2[\"\\3\", title=\"\\4\"]",
+					"image::\\1[\"\\2\", title=\"\\3\"]",
+					":",
+					"",
+					"\\t\\t\\t",
+					"\"",
+					"assertEquals (\\5, numeralsConverter.convertNumeralToNumber (\"\\1 \\2 \\3 \\4\").intValue ( ));",
+					"\\1",
+					"\\t\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"",
+					"\\1",
+					"",
+					"\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"\\1",
+					"\\t\\tassertEquals (\\2, numeralsConverter.convertNumeralToNumber (\"\\1\").intValue ( ));",
+					"\\1",
+					"* ",
+					"\\t\\t\\1,",
+					"\\t\\t'\\1',",
+					"",
+					"\\1-\\3-\\2",
+					"\\t\\t\\1,",
+					"\\t\\t'\\1',",
+					"",
+					"\\1-\\3-\\2",
+					"\\t\\t\\1,",
+					"^\\t\\t\\1,",
+					"        * `\\1`",
+					"        * ",
+					"",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"|\\1|\\2|\\3|",
+					"|\\1|`\\2`|\\3|",
+					"Pablo:",
+					"DUI F3",
+					";Disabled",
+					"Enabled",
+					"Core",
+					"Appendix-1",
+					"git mv src/main/resources/images/DEFCON-01-\\1 src/main/resources/Appendix-1-\\1",
+					"git mv DEFCON-01-\\1 Appendix-1-\\1",
+					"png",
+					"",
+					"## \\1",
+					"*OK*",
+					"$XEDIT_HOME",
+					"$LOOT_HOME",
+					"$FO3_HOME",
+					"$STEAM_HOME",
+					"$USERPROFILE"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,931,542,203,1360",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

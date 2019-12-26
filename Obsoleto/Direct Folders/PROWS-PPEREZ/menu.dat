@@ -1,0 +1,27 @@
+// Direct Folders menu definition file
+
+[Buttons]
+"Main",1,"folder.ico"
+"History",0,"history.ico"
+
+Button Main {
+  Popup Menu
+              CD "[C:]","C:\","",0
+              CD "[J:]","J:\","",0
+          CD "[P:]","P:\","",0
+      CD "[Q:]","Q:\"
+    CD "Downloads","C:\Users\pperez.DESIC\Downloads"
+    CD "Dropbox","C:\Users\pperez.DESIC\Dropbox"
+      CD "BitTorrentSync","C:\Users\pperez.DESIC\BitTorrentSync"
+      CD "Public","C:\Users\pperez.DESIC\Public"
+      CD "Restricted","C:\Users\pperez.DESIC\Restricted"
+    CD "Start Menu (pperez)","C:\Users\pperez.DESIC\AppData\Roaming\Microsoft\Windows\Start Menu"
+    CD "Start Menu (All Users)","C:\ProgramData\Microsoft\Windows\Start Menu"
+                        CD "SCS.HCE: Compartida","C:\Users\pperez.DESIC\HCEC","",0
+    CD "Despliegues HCDSNS","\\datossscc.scs-salud.org\informatica\Desarrollo\Despliegues\HCDSNS"
+      CD "Curso HCDSNS","\\gcssccdatos.canariasalud\HCDSNS_CURSO"
+                CD "JBoss Links","J:\Links","",0
+    CD "Servidor local CGC.Liferay","\\192.168.23.80\d\public"
+  }
+}
+

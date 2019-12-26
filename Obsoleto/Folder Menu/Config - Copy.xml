@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderMenu>
+	<Menu>
+		<Item Type="Item" Name="&amp;Recent" Path=":RecentMenu" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Foo" Path=":FooMenu" Icon="" Size=""></Item>
+		<Item Type="Separator" Name="- - - - -System"></Item>
+		<Item Type="Item" Name="C:" Path="C:\" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Projects (P:)" Path="P:\" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Downloads" Path="C:\Users\pperez.DESIC\Downloads" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Dropbox" Path="C:\Users\pperez.DESIC\Dropbox" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Public folder" Path="C:\Users\pperez.DESIC\Public" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Restricted folder" Path="C:\Users\pperez.DESIC\Restricted" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Start menu (pperez)" Path="C:\Users\pperez.DESIC\AppData\Roaming\Microsoft\Windows\Start Menu" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Start menu (all users)" Path="C:\ProgramData\Microsoft\Windows\Start Menu" Icon="" Size=""></Item>
+		<Item Type="Separator" Name="- - - - -HCDSNS"></Item>
+		<Item Type="Item" Name="Java (J:)" Path="J:\" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Current workspace (Q:)" Path="Q:\" Icon="" Size=""></Item>
+		<Item Type="Item" Name="JBoss links" Path="J:\Links" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Shared" Path="C:\Users\pperez.DESIC\HCEC" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Deployment" Path="\\datossscc.scs-salud.org\informatica\Desarrollo\Despliegues\HCDSNS" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Learning" Path="\\gcssccdatos.canariasalud\HCDSNS_CURSO" Icon="" Size=""></Item>
+		<Item Type="Separator" Name="- - - - -CGC"></Item>
+		<Item Type="Item" Name="Java (M:)" Path="M:\" Icon="" Size=""></Item>
+		<Item Type="Item" Name="Current workspace (N:)" Path="N:\" Icon="" Size=""></Item>
+		<Item Type="Separator" Name="- - - - -Settings"></Item>
+		<Item Type="Item" Name="&amp;Folder Menu" Path=":ToolMenu" Icon="" Size=""></Item>
+	</Menu>
+	<Settings>
+		<Applications>
+			<Setting Name="ApplicationList">
+				<Application Check="1" Type="M" Name="Explorer" Class="CabinetWClass,ExploreWClass" ClassNN="Edit1"></Application>
+				<Application Check="1" Type="M" Name="Open/Save Dialog" Class="#32770" ClassNN="Edit1"></Application>
+				<Application Check="1" Type="C" Name="Office Dialog" Class="bosa_sdm_" ClassNN="RichEdit20W2"></Application>
+				<Application Check="1" Type="M" Name="Command" Class="ConsoleWindowClass" ClassNN="Edit1"></Application>
+				<Application Check="1" Type="M" Name="Desktop" Class="Progman,WorkerW" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="M" Name="Taskbar" Class="Shell_TrayWnd" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="M" Name="TotalCommander" Class="TTOTAL_CMD" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="M" Name="UnrealCommander" Class="TxUNCOM" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="M" Name="FreeCommander" Class="TfcForm" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="M" Name="Emacs" Class="Emacs" ClassNN="Edit1"></Application>
+				<Application Check="0" Type="C" Name="rxvt" Class="rxvt" ClassNN="Edit1"></Application>
+			</Setting>
+		</Applications>
+		<Hotkeys>
+			<Setting Name="HotkeyList">
+				<Hotkey Key="4" Func="_ShowMainMenu1"></Hotkey>
+				<Hotkey Key="2135" Func="_ShowMainMenu2"></Hotkey>
+				<Hotkey Key="2122" Func="_OpenSel"></Hotkey>
+				<Hotkey Key="2105" Func="_AddApp"></Hotkey>
+			</Setting>
+		</Hotkeys>
+		<Icons>
+			<Setting Name="NoMenuIcon" Value="0"></Setting>
+			<Setting Name="GetFavIcon" Value="0"></Setting>
+			<Setting Name="ShellIcon" Value="1"></Setting>
+			<Setting Name="IconSizeG" Value="16"></Setting>
+			<Setting Name="IconList">
+				<Icon Ext="Unknown" Size="" Path="shell32.dll" Index="0"></Icon>
+				<Icon Ext="Menu" Size="" Path=".\FolderMenu.exe" Index="0"></Icon>
+				<Icon Ext="Folder" Size="" Path=".\FolderMenu.exe" Index="-208"></Icon>
+				<Icon Ext="FolderS" Size="" Path=".\FolderMenu.exe" Index="0"></Icon>
+				<Icon Ext="Drive" Size="" Path=".\FolderMenu.exe" Index="-209"></Icon>
+				<Icon Ext="Computer" Size="" Path=".\FolderMenu.exe" Index="-210"></Icon>
+				<Icon Ext="Share" Size="" Path=".\FolderMenu.exe" Index="-211"></Icon>
+			</Setting>
+		</Icons>
+		<Menus>
+			<Setting Name="MenuPositionX" Value="0"></Setting>
+			<Setting Name="MenuPositionY" Value="0"></Setting>
+			<Setting Name="MenuPosition" Value="0"></Setting>
+			<Setting Name="TempShowFile" Value="0"></Setting>
+			<Setting Name="TempShowFExt" Value="*"></Setting>
+			<Setting Name="AltFolderIcon" Value="0"></Setting>
+			<Setting Name="BrowseMode" Value="0"></Setting>
+			<Setting Name="TempDriveType" Value="Fixed"></Setting>
+			<Setting Name="HideExt" Value="0"></Setting>
+			<Setting Name="HideLnk" Value="0"></Setting>
+			<Setting Name="ItemWarn" Value="1"></Setting>
+			<Setting Name="DriveType" Value="Fixed"></Setting>
+			<Setting Name="DriveReload" Value="1"></Setting>
+			<Setting Name="DriveFree" Value="1"></Setting>
+			<Setting Name="TCPathExe" Value="C:\totalcmd\totalcmd.exe"></Setting>
+			<Setting Name="TCPathIni" Value="C:\totalcmd\wincmd.ini"></Setting>
+			<Setting Name="TCAsMain" Value="0"></Setting>
+			<Setting Name="TCSubmenu" Value="1"></Setting>
+			<Setting Name="SRecentSize" Value="16"></Setting>
+			<Setting Name="SRecentDate" Value="0"></Setting>
+			<Setting Name="SRecentIndex" Value="0"></Setting>
+			<Setting Name="SRecentFolder" Value="0"></Setting>
+			<Setting Name="SRecentFull" Value="1"></Setting>
+			<Setting Name="RecentSize" Value="16"></Setting>
+			<Setting Name="RecentDate" Value="0"></Setting>
+			<Setting Name="RecentIndex" Value="0"></Setting>
+			<Setting Name="RecentFolder" Value="0"></Setting>
+			<Setting Name="RecentFull" Value="1"></Setting>
+			<Setting Name="RecentList">
+				<Recent Date="2015/04/29 15:12:24" Path="J:\"></Recent>
+				<Recent Date="2015/04/29 14:27:59" Path="C:\Program Files\FolderMenu"></Recent>
+				<Recent Date="2015/04/29 14:03:54" Path="C:\Users\pperez.DESIC"></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+				<Recent Date="" Path=""></Recent>
+			</Setting>
+		</Menus>
+		<Others>
+			<Setting Name="Language" Value=""></Setting>
+			<Setting Name="StartWithWin" Value="1"></Setting>
+			<Setting Name="NoTray" Value="0"></Setting>
+			<Setting Name="AddFavAtTop" Value="0"></Setting>
+			<Setting Name="AddFavCheck" Value="0"></Setting>
+			<Setting Name="AddFavSkipGui" Value="0"></Setting>
+			<Setting Name="AddFavApp" Value="1"></Setting>
+			<Setting Name="AddFavAppCmd" Value="0"></Setting>
+			<Setting Name="AddFavLnk" Value="1"></Setting>
+			<Setting Name="FileManager" Value=""></Setting>
+			<Setting Name="Browser" Value=""></Setting>
+			<Setting Name="SearchSel" Value="0"></Setting>
+			<Setting Name="SearchSelUrl" Value="http://www.google.com/search?q=%s"></Setting>
+			<Setting Name="LoadingTip" Value="1"></Setting>
+			<Setting Name="LoadingTipFor" Value="11"></Setting>
+			<Setting Name="CheckVersion" Value="1"></Setting>
+			<Setting Name="CurrentVer" Value="3.1.2.2"></Setting>
+		</Others>
+		<GUI>
+			<Setting Name="OptionsPosX" Value="1388"></Setting>
+			<Setting Name="OptionsPosY" Value="303"></Setting>
+			<Setting Name="OptionsPosW" Value="416"></Setting>
+			<Setting Name="OptionsPosH" Value="538"></Setting>
+			<Setting Name="OptionsPosM" Value="0"></Setting>
+		</GUI>
+	</Settings>
+</FolderMenu>

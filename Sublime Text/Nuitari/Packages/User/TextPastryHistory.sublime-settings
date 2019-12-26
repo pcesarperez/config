@@ -1,0 +1,110 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "foo bar tipi spam spamburger nuuuu",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "foo bar tipi spam spamburger nuuuu"
+			},
+			"key": "f6c2c4ebf2e6ae98721d14a86ced624d",
+			"label": "foo bar tipi spam spamburger nuuuu"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "foo bar",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "foo bar"
+			},
+			"key": "327b6f07435811239bc47e1544353273",
+			"label": "foo bar"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "excuse me?",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "excuse me?"
+			},
+			"key": "77e338ca16d6c9832a18d81cdb2978ff",
+			"label": "excuse me?"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "You don't fuck me very well!",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "You don't fuck me very well!"
+			},
+			"key": "b2ac9d6bd68893cfc492f18d9f95da31",
+			"label": "You don't fuck me very well!"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "ºi",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "ºi"
+			},
+			"key": "1d8637ab64fbe8edb4a72cb88a369638",
+			"label": "ºi"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(1000, 100)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(1000, 100)"
+			},
+			"key": "7ac26f2799ed3bfad076ba4cbe4e805e",
+			"label": "\\i(1000, 100)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i(1000, 100)"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i(1000, 100)"
+	}
+}

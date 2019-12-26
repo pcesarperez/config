@@ -1,0 +1,8 @@
+{
+    "html_template": "Z:/.config/Markdown Preview/HCDSNS_deploy.html",
+    "skip_default_stylesheet": true,
+    "show_panel_on_build": false,
+    "image_path_conversion": "relative",
+    "file_path_conversions": "relative",
+    "markdown_filetypes": [".md", ".markdown", ".mmd", ".mdown"]
+}

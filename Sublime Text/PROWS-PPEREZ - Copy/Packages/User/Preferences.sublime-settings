@@ -1,0 +1,20 @@
+{
+	"ignored_packages":
+	[
+		"Asciidoctor",
+		"Colorsublime",
+		"Evernote",
+		"GhostText",
+		"GitGutter",
+		"Gradle_Language",
+		"Indent XML",
+		"Java Velocity",
+		"JsonTree",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"PowerShell",
+		"Shell Turtlestein",
+		"TrailingSpaces",
+		"Vintage"
+	]
+}

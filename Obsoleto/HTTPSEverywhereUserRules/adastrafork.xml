@@ -1,0 +1,6 @@
+﻿<ruleset name="adastra.fork ( )">
+	<target host="www.adastrafork.com" />
+	<target host="adastrafork.com" />
+
+	<rule from="^http://(www\.)?adastrafork\.com/" to="https://adastrafork.com/"/>
+</ruleset>

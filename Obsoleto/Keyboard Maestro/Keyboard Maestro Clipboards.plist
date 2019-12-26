@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Data</key>
+		<array>
+			<dict>
+				<key>Data</key>
+				<data>
+				RGVmYXVsdCBDbGlwYm9hcmQgVGV4dA==
+				</data>
+				<key>Key</key>
+				<string>public.utf8-plain-text</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Default Clipboard</string>
+		<key>UID</key>
+		<string>0C7B4A32-0819-4713-890D-4AD4A82D4001</string>
+	</dict>
+</array>
+</plist>

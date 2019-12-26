@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ANTLR syntax highlight",
+		"ApacheConf",
+		"Asciidoctor",
+		"AutoHotkey",
+		"ayu",
+		"BracketHighlighter",
+		"Colorsublime",
+		"GitGutter",
+		"Gradle_Language",
+		"Indent XML",
+		"Java Velocity",
+		"JsonTree",
+		"Kotlin",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Pandoc",
+		"PowerShell",
+		"Pretty JSON",
+		"Sass",
+		"Text Pastry",
+		"TrailingSpaces"
+	]
+}
